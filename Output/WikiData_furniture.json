@@ -1,0 +1,3775 @@
+[
+    {
+        "m_Name": "19thCenturyCabinet",
+        "EngName": "19th Century Display Cabinet",
+        "RusName": "Сервант 19-го века",
+        "Value": 210300,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 43,
+        "Width": 4,
+        "Height": 10,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "AchillesPatron_Paint",
+        "EngName": "Achilles Patron Portrait",
+        "RusName": "Портрет покровителя Achilles",
+        "Value": 93000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "ActionFigure",
+        "EngName": "Action Figure",
+        "RusName": "Экшен-фигурка",
+        "Value": 148350,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 43,
+        "Width": 2,
+        "Height": 4
+    },
+    {
+        "m_Name": "AdonisWithGun",
+        "EngName": "Adonis with Gun",
+        "RusName": "Адонис с пистолетом",
+        "Value": 93000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "AntiqueTrunk",
+        "EngName": "Antique Trunk",
+        "RusName": "Старинный сундук",
+        "Value": 148500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 19,
+        "Width": 6,
+        "Height": 4,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "Armchair_Eclectic",
+        "EngName": "Eclectic Armchair",
+        "RusName": "Эклектичное кресло?",
+        "Value": 315000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 70,
+        "Width": 6,
+        "Height": 5
+    },
+    {
+        "m_Name": "Armchair_Industrial",
+        "EngName": "Industrial Armchair",
+        "RusName": "Кресло в стиле индастриал",
+        "Value": 315000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 70,
+        "Width": 6,
+        "Height": 5
+    },
+    {
+        "m_Name": "Armchair_MaisonMonique",
+        "EngName": "Maison Monique Armchair",
+        "RusName": "Кресло Maison Monique?",
+        "Value": 315000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 70,
+        "Width": 6,
+        "Height": 5
+    },
+    {
+        "m_Name": "Armchair_Modern",
+        "EngName": "Modern Armchair",
+        "RusName": "Современное кресло",
+        "Value": 34500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 23,
+        "Width": 6,
+        "Height": 5
+    },
+    {
+        "m_Name": "Armchair_Vintage",
+        "EngName": "Vintage Armchair",
+        "RusName": "Винтажное кресло",
+        "Value": 141000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 47,
+        "Width": 6,
+        "Height": 5
+    },
+    {
+        "m_Name": "ArtDecoSafe",
+        "EngName": "Art Deco Safe",
+        "RusName": "Сейф в стиле ар-деко",
+        "Value": 209100,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 33,
+        "Width": 4,
+        "Height": 6,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "BathroomSink_CenturyPop",
+        "EngName": "Century Pop Sink",
+        "RusName": "Раковина \"Столетие\" в стиле поп-арт",
+        "Value": 8100,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 9,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "BathroomSink_Dynasty",
+        "EngName": "Dynasty Bathroom Sink",
+        "RusName": "Раковина династии?",
+        "Value": 8100,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 9,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "BathroomSink_MaisonMonique",
+        "EngName": "Maison Monique Bathroom Sink",
+        "RusName": "Раковина для ванной комнаты Maison Monique?",
+        "Value": 211500,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 47,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "BathroomSink_Munchen",
+        "EngName": "Munich-style Bathroom Sink",
+        "RusName": "Раковина для ванной комнаты \"Мюнхен\"",
+        "Value": 93000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "BathroomSink_Royal",
+        "EngName": "Royal Bathroom Sink",
+        "RusName": "Королевская раковина для ванной комнаты",
+        "Value": 211500,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 47,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "BathroomSink_Traditional",
+        "EngName": "Traditional Bathroom Sink",
+        "RusName": "Традиционная раковина для ванной комнаты",
+        "Value": 8100,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 9,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "Bathtub_MaisonMonique",
+        "EngName": "Maison Monique Bathtub",
+        "RusName": "Ванна Maison Monique?",
+        "Value": 922500,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 205,
+        "Width": 8,
+        "Height": 11,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "Bathtub_Munchen",
+        "EngName": "Munich-style Bathtub",
+        "RusName": "Ванна \"Мюнхен\"",
+        "Value": 408000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 136,
+        "Width": 8,
+        "Height": 11,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "Bathtub_Royal",
+        "EngName": "Royal Bathtub",
+        "RusName": "Королевская ванна",
+        "Value": 922500,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 205,
+        "Width": 8,
+        "Height": 11,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "Bathtub_Traditional",
+        "EngName": "Traditional Bathtub",
+        "RusName": "Традиционная ванна",
+        "Value": 102000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 68,
+        "Width": 8,
+        "Height": 11,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "Bed_Antique",
+        "EngName": "Antique Bed",
+        "RusName": "Антикварная кровать",
+        "Value": 378000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 84,
+        "Width": 6,
+        "Height": 6
+    },
+    {
+        "m_Name": "Bed_Century",
+        "EngName": "Century Bed",
+        "RusName": "Кровать \"Столетие\"",
+        "Value": 168000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 56,
+        "Width": 6,
+        "Height": 6
+    },
+    {
+        "m_Name": "Bed_Eclectic",
+        "EngName": "Eclectic Bed",
+        "RusName": "Эклектичная кровать?",
+        "Value": 378000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 84,
+        "Width": 6,
+        "Height": 6
+    },
+    {
+        "m_Name": "Bed_Factory",
+        "EngName": "Factory Bed",
+        "RusName": "Заводская кровать?",
+        "Value": 42000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 28,
+        "Width": 6,
+        "Height": 6
+    },
+    {
+        "m_Name": "Bed_MaisonMonique",
+        "EngName": "Maison Monique Bed",
+        "RusName": "Кровать Maison Monique?",
+        "Value": 378000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 84,
+        "Width": 6,
+        "Height": 6
+    },
+    {
+        "m_Name": "Bed_Rustic",
+        "EngName": "Rustic Bed",
+        "RusName": "Деревенская кровать",
+        "Value": 42000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 28,
+        "Width": 6,
+        "Height": 6
+    },
+    {
+        "m_Name": "BlueMing",
+        "EngName": "Blue Ming",
+        "RusName": "Ваза династии Мин",
+        "Value": 625000,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 42,
+        "Width": 3,
+        "Height": 8,
+        "BulletCapacity": 350,
+        "Productivity": 50
+    },
+    {
+        "m_Name": "Bonsai",
+        "EngName": "Bonsai",
+        "RusName": "Бонсай",
+        "Value": 3500,
+        "Tags": [
+            "Сборник"
+        ],
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "Books_1",
+        "EngName": "Books",
+        "RusName": "Книги",
+        "Value": 4500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 3,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Bottle_1",
+        "EngName": "Whiskey Bottle",
+        "RusName": "Бутылка виски",
+        "Value": 600,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 1,
+        "Width": 1,
+        "Height": 2
+    },
+    {
+        "m_Name": "Bottle_RiceWine",
+        "EngName": "Rice Wine Bottle",
+        "RusName": "Бутылка рисового вина?",
+        "Value": 600,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 1,
+        "Width": 1,
+        "Height": 2
+    },
+    {
+        "m_Name": "Bottle_Wine",
+        "EngName": "Wine Bottle",
+        "RusName": "Бутылка вина",
+        "Value": 600,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 1,
+        "Width": 1,
+        "Height": 2
+    },
+    {
+        "m_Name": "Carnival1_HuntTheDevs",
+        "EngName": "Carnival 1 - Hunt the Devs",
+        "RusName": "Carnival 1 - Hunt the Devs",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "CeilingLamp_CenturyPop",
+        "EngName": "Century Pop Chandelier",
+        "RusName": "Люстра \"Столетие\" в стиле поп-арт",
+        "Value": 6300,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 7,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Chair_Chalet",
+        "EngName": "Chalet Chair",
+        "RusName": "Стул Шале?",
+        "Value": 111000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Chair_Contemporary",
+        "EngName": "Contemporary Chair",
+        "RusName": "Современный стул",
+        "Value": 252000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 56,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Chair_Factory",
+        "EngName": "Factory Chair",
+        "RusName": "Заводской стул?",
+        "Value": 28500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 19,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Chair_Hitech",
+        "EngName": "Hi-tech Chair",
+        "RusName": "Стул в стиле хай-тек",
+        "Value": 111000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Chair_Retro",
+        "EngName": "Retro Chair",
+        "RusName": "Стул в стиле ретро",
+        "Value": 28500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 19,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Chair_Rustic",
+        "EngName": "Rustic Chair",
+        "RusName": "Деревенский стул",
+        "Value": 28500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 19,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Chair_Urban",
+        "EngName": "Urban Chair",
+        "RusName": "Стул в урбанистическом стиле",
+        "Value": 111000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Chandelier_Aluminium",
+        "EngName": "Aluminium Ceiling Lamp",
+        "RusName": "Алюминиевый потолочный светильник",
+        "Value": 6300,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 7
+    },
+    {
+        "m_Name": "Chandelier_Classic",
+        "EngName": "Classic Chandelier",
+        "RusName": "Классическая люстра?",
+        "Value": 166500,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Chandelier_Dynasty",
+        "EngName": "Dynasty Chandelier",
+        "RusName": "Люстра династии?",
+        "Value": 6300,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 7,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Chandelier_Industrial",
+        "EngName": "Industrial Chandelier",
+        "RusName": "Люстра в стиле индастриал?",
+        "Value": 18000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 12,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Chandelier_Modern",
+        "EngName": "Modern Chandelier",
+        "RusName": "Люстра в стиле модерн?",
+        "Value": 75000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 25,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Chandelier_Noveau",
+        "EngName": "Nouveau Chandelier",
+        "RusName": "Люстра в стиле ар-нуво?",
+        "Value": 75000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 25,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Chandelier_Organic",
+        "EngName": "Organic Chandelier",
+        "RusName": "Органическая люстра?",
+        "Value": 18000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 12,
+        "Width": 3,
+        "Height": 4
+    },
+    {
+        "m_Name": "ChristmasTree",
+        "EngName": "Christmas Tree",
+        "RusName": "Рождественская ёлка?",
+        "Value": 76500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 51,
+        "Width": 6,
+        "Height": 11
+    },
+    {
+        "m_Name": "Clock_Basic",
+        "EngName": "Basic Clock",
+        "RusName": "Обычные часы?",
+        "Value": 4500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 3,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Clock_Cuckoo",
+        "EngName": "Cuckoo Clock",
+        "RusName": "Часы с кукушкой?",
+        "Value": 57000,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 19,
+        "Width": 3,
+        "Height": 4
+    },
+    {
+        "m_Name": "Clock_Pendulum",
+        "EngName": "Pendulum Clock",
+        "RusName": "Маятниковые часы?",
+        "Value": 103500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 23,
+        "Width": 2,
+        "Height": 5
+    },
+    {
+        "m_Name": "Computer",
+        "EngName": "Olivia Computer",
+        "RusName": "Компьютер Оливия",
+        "Value": 176700,
+        "Tags": [
+            "Электроника"
+        ],
+        "ImagoPoints": 38,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "CrystalChandelier",
+        "EngName": "Crystal Chandelier",
+        "RusName": "Хрустальная люстра",
+        "Value": 156000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 40,
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "DistortedMirror",
+        "EngName": "Blurred Mirror",
+        "RusName": "Кривое зеркало",
+        "Value": 391500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 90,
+        "Width": 4,
+        "Height": 10
+    },
+    {
+        "m_Name": "DollHouse",
+        "EngName": "Doll House",
+        "RusName": "Кукольный домик",
+        "Value": 133650,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 33,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Door_Classic",
+        "EngName": "Classic Door",
+        "RusName": "Классическая дверь",
+        "Value": 306000,
+        "Tags": [
+            "Двери"
+        ],
+        "ImagoPoints": 102,
+        "Width": 6,
+        "Height": 11
+    },
+    {
+        "m_Name": "Door_Country",
+        "EngName": "Country Door",
+        "RusName": "Дверь в стиле кантри",
+        "Value": 12000,
+        "Tags": [
+            "Двери"
+        ],
+        "ImagoPoints": 20,
+        "Width": 6,
+        "Height": 11
+    },
+    {
+        "m_Name": "Door_Nouveau",
+        "EngName": "Nouveau Door",
+        "RusName": "Дверь в стиле модерн",
+        "Value": 688500,
+        "Tags": [
+            "Двери"
+        ],
+        "ImagoPoints": 153,
+        "Width": 6,
+        "Height": 11
+    },
+    {
+        "m_Name": "DoubleBed_Antique",
+        "EngName": "Antique Double Bed",
+        "RusName": "Антикварная двуспальная кровать",
+        "Value": 504000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 112,
+        "Width": 8,
+        "Height": 6
+    },
+    {
+        "m_Name": "DoubleBed_Century",
+        "EngName": "Century Double Bed",
+        "RusName": "Двуспальная кровать \"Столетие\"",
+        "Value": 222000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 74,
+        "Width": 8,
+        "Height": 6
+    },
+    {
+        "m_Name": "DoubleBed_Eclectic",
+        "EngName": "Eclectic Double Bed",
+        "RusName": "Эклектичная двуспальная кровать",
+        "Value": 504000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 112,
+        "Width": 8,
+        "Height": 6
+    },
+    {
+        "m_Name": "DoubleBed_Factory",
+        "EngName": "Factory Double Bed",
+        "RusName": "Заводская двуспальная кровать?",
+        "Value": 55500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 37,
+        "Width": 8,
+        "Height": 6
+    },
+    {
+        "m_Name": "DoubleBed_MaisonMonique",
+        "EngName": "Maison Monique Double Bed",
+        "RusName": "Двуспальная кровать Maison Monique?",
+        "Value": 504000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 112,
+        "Width": 8,
+        "Height": 6
+    },
+    {
+        "m_Name": "DoubleBed_Rustic",
+        "EngName": "Rustic Double Bed",
+        "RusName": "Деревенская двуспальная кровать",
+        "Value": 55500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 37,
+        "Width": 8,
+        "Height": 6
+    },
+    {
+        "m_Name": "Drawer_Antique",
+        "EngName": "Antique Drawer",
+        "RusName": "Антикварный комод",
+        "Value": 493000,
+        "Tags": [
+            "Комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 74,
+        "Width": 8,
+        "Height": 4,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Drawer_Century",
+        "EngName": "Century Drawer",
+        "RusName": "Комод \"Столетие\"",
+        "Value": 310000,
+        "Tags": [
+            "Комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 50,
+        "Width": 8,
+        "Height": 4,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Drawer_CenturyPop",
+        "EngName": "Century Pop Drawer",
+        "RusName": "Комод \"Столетие\" в стиле поп-арт",
+        "Value": 166000,
+        "Tags": [
+            "Комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 10,
+        "Width": 8,
+        "Height": 4,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Drawer_Dynasty",
+        "EngName": "Dynasty Drawer",
+        "RusName": "Комод династии?",
+        "Value": 166000,
+        "Tags": [
+            "Комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 10,
+        "Width": 8,
+        "Height": 4,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Drawer_Eclectic",
+        "EngName": "Eclectic Drawer",
+        "RusName": "Эклектичный комод?",
+        "Value": 493000,
+        "Tags": [
+            "Комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 74,
+        "Width": 8,
+        "Height": 4,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Drawer_Factory",
+        "EngName": "Factory Drawer",
+        "RusName": "Заводской комод?",
+        "Value": 166000,
+        "Tags": [
+            "Комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 10,
+        "Width": 8,
+        "Height": 4,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Drawer_MaisonMonique",
+        "EngName": "Maison Monique Drawer",
+        "RusName": "Комод Maison Monique?",
+        "Value": 493000,
+        "Tags": [
+            "Комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 74,
+        "Width": 8,
+        "Height": 4,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Drawer_Rustic",
+        "EngName": "Rustic Drawer",
+        "RusName": "Деревенский комод",
+        "Value": 166000,
+        "Tags": [
+            "Комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 10,
+        "Width": 8,
+        "Height": 4,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Fetus",
+        "EngName": "Fetus",
+        "RusName": "Зародыш",
+        "Value": 114000,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 19,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "FishTank",
+        "EngName": "Aquarium",
+        "RusName": "Аквариум",
+        "Value": 361800,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 67,
+        "Width": 6,
+        "Height": 4
+    },
+    {
+        "m_Name": "FloorLamp_Aluminium",
+        "EngName": "Aluminium Floor Lamp",
+        "RusName": "Алюминиевый торшер?",
+        "Value": 63000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 14,
+        "Width": 2,
+        "Height": 9
+    },
+    {
+        "m_Name": "FloorLamp_Classic",
+        "EngName": "Classic Floor Lamp",
+        "RusName": "Классический торшер",
+        "Value": 21000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 14
+    },
+    {
+        "m_Name": "FloorLamp_Industrial",
+        "EngName": "Industrial Floor Lamp",
+        "RusName": "Торшер в стиле индастриал?",
+        "Value": 84000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 28,
+        "Width": 2,
+        "Height": 9
+    },
+    {
+        "m_Name": "FloorLamp_Modern",
+        "EngName": "Modern Floor Lamp",
+        "RusName": "Торшер в стиле модерн?",
+        "Value": 21000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 14,
+        "Width": 2,
+        "Height": 9
+    },
+    {
+        "m_Name": "FloorLamp_Noveau",
+        "EngName": "Nouveau Floor Lamp",
+        "RusName": "Торшер в стиле ар-нуво?",
+        "Value": 189000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 42,
+        "Width": 3,
+        "Height": 9
+    },
+    {
+        "m_Name": "FloorLamp_Organic",
+        "EngName": "Organic Floor Lamp",
+        "RusName": "Органический торшер?",
+        "Value": 84000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 28,
+        "Width": 2,
+        "Height": 9
+    },
+    {
+        "m_Name": "Fridge_Chalet",
+        "EngName": "Chalet Fridge",
+        "RusName": "Холодильник Шале?",
+        "Value": 386000,
+        "Tags": [
+            "Холодильники"
+        ],
+        "ImagoPoints": 62,
+        "Width": 4,
+        "Height": 10,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Fridge_Contemporary",
+        "EngName": "Contemporary Fridge",
+        "RusName": "Современный холодильник",
+        "Value": 386000,
+        "Tags": [
+            "Холодильники"
+        ],
+        "ImagoPoints": 62,
+        "Width": 4,
+        "Height": 10,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Fridge_Factory",
+        "EngName": "Factory Fridge",
+        "RusName": "Заводской холодильник?",
+        "Value": 246500,
+        "Tags": [
+            "Холодильники"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 10,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Fridge_Hitech",
+        "EngName": "Hi-tech Fridge",
+        "RusName": "Холодильник в стиле хай-тек",
+        "Value": 386000,
+        "Tags": [
+            "Холодильники"
+        ],
+        "ImagoPoints": 62,
+        "Width": 4,
+        "Height": 10,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Fridge_Retro",
+        "EngName": "Retro Fridge",
+        "RusName": "Холодильник в стиле ретро",
+        "Value": 618500,
+        "Tags": [
+            "Холодильники"
+        ],
+        "ImagoPoints": 93,
+        "Width": 4,
+        "Height": 10,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Fridge_Urban",
+        "EngName": "Urban Fridge",
+        "RusName": "Холодильник в урбанистическом стиле",
+        "Value": 246500,
+        "Tags": [
+            "Холодильники"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 10,
+        "Capacity": 4
+    },
+    {
+        "m_Name": "Gramophone_1",
+        "EngName": "Gramophone",
+        "RusName": "Граммофон",
+        "Value": 211500,
+        "Tags": [
+            "Музыкальный проигрыватель"
+        ],
+        "ImagoPoints": 47,
+        "Width": 4,
+        "Height": 10
+    },
+    {
+        "m_Name": "GrandfatherClock",
+        "EngName": "Grandfather Clock",
+        "RusName": "Дедушкины часы",
+        "Value": 224400,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 68,
+        "Width": 4,
+        "Height": 10
+    },
+    {
+        "m_Name": "HiFi_1",
+        "EngName": "HiFi System",
+        "RusName": "Стереосистема",
+        "Value": 174000,
+        "Tags": [
+            "Музыкальный проигрыватель"
+        ],
+        "ImagoPoints": 40,
+        "Width": 6,
+        "Height": 3
+    },
+    {
+        "m_Name": "HighDrawer_Antique",
+        "EngName": "Antique Tall Chest of Drawers",
+        "RusName": "Антикварный высокий комод",
+        "Value": 372000,
+        "Tags": [
+            "Высокий комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 56,
+        "Width": 4,
+        "Height": 6,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "HighDrawer_Century",
+        "EngName": "Century Tall Chest of Drawers",
+        "RusName": "Высокий комод \"Столетие\"",
+        "Value": 231000,
+        "Tags": [
+            "Высокий комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 6,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "HighDrawer_Eclectic",
+        "EngName": "Eclectic Tall Chest of Drawers",
+        "RusName": "Эклектичный высокий комод?",
+        "Value": 372000,
+        "Tags": [
+            "Высокий комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 56,
+        "Width": 4,
+        "Height": 6,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "HighDrawer_Factory",
+        "EngName": "Factory Tall Chest of Drawers",
+        "RusName": "Заводской высокий комод?",
+        "Value": 148500,
+        "Tags": [
+            "Высокий комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 19,
+        "Width": 4,
+        "Height": 6,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "HighDrawer_MaisonMonique",
+        "EngName": "Maison Monique Tall Chest of Drawers",
+        "RusName": "Высокий комод Maison Monique?",
+        "Value": 372000,
+        "Tags": [
+            "Высокий комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 56,
+        "Width": 4,
+        "Height": 6,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "HighDrawer_Rustic",
+        "EngName": "Rustic Tall Chest of Drawers",
+        "RusName": "Деревенский высокий комод",
+        "Value": 148500,
+        "Tags": [
+            "Высокий комод",
+            "Контейнер"
+        ],
+        "ImagoPoints": 19,
+        "Width": 4,
+        "Height": 6,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "HorseBust",
+        "EngName": "Horse Bust",
+        "RusName": "Лошадиная голова",
+        "Value": 195750,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 45,
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "Hourglass",
+        "EngName": "Hourglass",
+        "RusName": "Песочные часы",
+        "Value": 105750,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 15,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Hunger_1",
+        "EngName": "Hanger",
+        "RusName": "Вешалка",
+        "Value": 37500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 25,
+        "Width": 4,
+        "Height": 7
+    },
+    {
+        "m_Name": "InsectsCollection",
+        "EngName": "Insect Collection",
+        "RusName": "Коллекция насекомых",
+        "Value": 55500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 37,
+        "Width": 6,
+        "Height": 4
+    },
+    {
+        "m_Name": "KitchenSink_Chalet",
+        "EngName": "Chalet Kitchen Sink",
+        "RusName": "Кухонная раковина Шале?",
+        "Value": 168000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 56,
+        "Width": 6,
+        "Height": 6,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "KitchenSink_Contemporary",
+        "EngName": "Contemporary Kitchen Sink",
+        "RusName": "Современная кухонная раковина",
+        "Value": 168000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 56,
+        "Width": 6,
+        "Height": 6,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "KitchenSink_Factory",
+        "EngName": "Factory Kitchen Sink",
+        "RusName": "Заводская кухонная раковина",
+        "Value": 42000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 28,
+        "Width": 6,
+        "Height": 6,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "KitchenSink_Hitech",
+        "EngName": "Hi-tech Kitchen Sink",
+        "RusName": "Кухонная раковина в стиле хай-тек",
+        "Value": 168000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 56,
+        "Width": 6,
+        "Height": 6,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "KitchenSink_Retro",
+        "EngName": "Retro Kitchen Sink",
+        "RusName": "Кухонная раковина в стиле ретро",
+        "Value": 378000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 84,
+        "Width": 6,
+        "Height": 6,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "KitchenSink_Urban",
+        "EngName": "Urban Kitchen Sink",
+        "RusName": "Кухонная раковина в урбанистическом стиле",
+        "Value": 42000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 28,
+        "Width": 6,
+        "Height": 6,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "LandlinePhone_1",
+        "EngName": "Landline Phone",
+        "RusName": "Стационарный телефон",
+        "Value": 1800,
+        "Tags": [
+            "Телефоны"
+        ],
+        "ImagoPoints": 2,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "LandlinePhone_CenturyPop",
+        "EngName": "Century Pop Landline Phone",
+        "RusName": "Стационарный телефон \"Столетие\" в стиле поп-арт",
+        "Value": 1800,
+        "Tags": [
+            "Телефоны"
+        ],
+        "ImagoPoints": 2,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "LandlinePhone_Dynasty",
+        "EngName": "Dynasty Landline Phone",
+        "RusName": "Стационарный телефон династии?",
+        "Value": 1800,
+        "Tags": [
+            "Телефоны"
+        ],
+        "ImagoPoints": 2,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "MiniFridge",
+        "EngName": "Mini Fridge",
+        "RusName": "Мини-холодильник",
+        "Value": 108100,
+        "Tags": [
+            "Холодильники"
+        ],
+        "ImagoPoints": 9,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 2
+    },
+    {
+        "m_Name": "Mirror_MaisonMonique",
+        "EngName": "Maison Monique Mirror",
+        "RusName": "Зеркало Maison Monique?",
+        "Value": 166500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Mirror_Munchen",
+        "EngName": "Miroir Munich",
+        "RusName": "Зеркало \"Мюнхен\"",
+        "Value": 75000,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 25,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Mirror_Royal",
+        "EngName": "Royal Mirror",
+        "RusName": "Королевское зеркало",
+        "Value": 166500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Mirror_Traditional",
+        "EngName": "Traditional Mirror",
+        "RusName": "Традиционное зеркало",
+        "Value": 18000,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 12,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "ModularMusicSystem",
+        "EngName": "Modular Synthesizer",
+        "RusName": "Модульный синтезатор",
+        "Value": 166500,
+        "Tags": [
+            "Музыкальный проигрыватель"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "MountedDeer",
+        "EngName": "Mounted Deer",
+        "RusName": "Голова оленя",
+        "Value": 144000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 60,
+        "Width": 6,
+        "Height": 8
+    },
+    {
+        "m_Name": "Neon_Green",
+        "EngName": "Green Neon",
+        "RusName": "Зелёный неон",
+        "Value": 1800,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 2,
+        "Width": 4,
+        "Height": 1
+    },
+    {
+        "m_Name": "NightStand_Antique",
+        "EngName": "Antique Bedside Table",
+        "RusName": "Антикварный прикроватный столик",
+        "Value": 246500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4,
+        "Capacity": 2
+    },
+    {
+        "m_Name": "NightStand_Century",
+        "EngName": "Century Bedside Table",
+        "RusName": "Прикроватный столик \"Столетие\"",
+        "Value": 155000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 25,
+        "Width": 4,
+        "Height": 4,
+        "Capacity": 2
+    },
+    {
+        "m_Name": "NightStand_CenturyPop",
+        "EngName": "Century Pop Bedside Table",
+        "RusName": "Прикроватная тумбочка \"Столетие\" в стиле поп-арт",
+        "Value": 98000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 12,
+        "Width": 4,
+        "Height": 4,
+        "Capacity": 2
+    },
+    {
+        "m_Name": "NightStand_Eclectic",
+        "EngName": "Eclectic Bedside Table",
+        "RusName": "Эклектичный прикроватный столик?",
+        "Value": 246500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4,
+        "Capacity": 2
+    },
+    {
+        "m_Name": "NightStand_Factory",
+        "EngName": "Factory Bedside Table",
+        "RusName": "Заводской прикроватный столик?",
+        "Value": 98000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 12,
+        "Width": 4,
+        "Height": 4,
+        "Capacity": 2
+    },
+    {
+        "m_Name": "NightStand_MaisonMonique",
+        "EngName": "Maison Monique Bedside Table",
+        "RusName": "Прикроватный столик Maison Monique?",
+        "Value": 246500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4,
+        "Capacity": 2
+    },
+    {
+        "m_Name": "NightStand_Rustic",
+        "EngName": "Rustic Bedside Table",
+        "RusName": "Деревенский прикроватный столик",
+        "Value": 98000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 12,
+        "Width": 4,
+        "Height": 4,
+        "Capacity": 2
+    },
+    {
+        "m_Name": "OpenNeon",
+        "EngName": "Neon Open Sign",
+        "RusName": "Неоновая вывеска \"Открыто\"",
+        "Value": 504000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 112,
+        "Width": 6,
+        "Height": 4
+    },
+    {
+        "m_Name": "Oven_Chalet",
+        "EngName": "Chalet Oven",
+        "RusName": "Печь Шале?",
+        "Value": 213000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "Oven_Contemporary",
+        "EngName": "Contemporary Oven",
+        "RusName": "Современная печь",
+        "Value": 213000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "Oven_Factory",
+        "EngName": "Factory Oven",
+        "RusName": "Заводская печь?",
+        "Value": 144000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 16,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "Oven_Hitech",
+        "EngName": "Hi-tech Oven",
+        "RusName": "Печь в стиле хай-тек?",
+        "Value": 213000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "Oven_Retro",
+        "EngName": "Retro Oven",
+        "RusName": "Печь в стиле ретро",
+        "Value": 331500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 47,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "Oven_Urban",
+        "EngName": "Urban Oven",
+        "RusName": "Печь в урбанистическом стиле",
+        "Value": 144000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 16,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "Painting_1",
+        "EngName": "Anonymous, 1900",
+        "RusName": "Аноним, 1900 год",
+        "Value": 27000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 9,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "Painting_10",
+        "EngName": "Young Peasant Drinking Coffee",
+        "RusName": "Молодая крестьянка с чашкой кофе",
+        "Value": 211500,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 47,
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "Painting_11",
+        "EngName": "At the concert",
+        "RusName": "На концерте",
+        "Value": 126000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 28,
+        "Width": 3,
+        "Height": 4
+    },
+    {
+        "m_Name": "Painting_12",
+        "EngName": "Madam Pompadour",
+        "RusName": "Мадам Помпадур",
+        "Value": 585000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 130,
+        "Width": 7,
+        "Height": 8
+    },
+    {
+        "m_Name": "Painting_13",
+        "EngName": "The Scream",
+        "RusName": "Крик",
+        "Value": 1638000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 273,
+        "Width": 8,
+        "Height": 11
+    },
+    {
+        "m_Name": "Painting_14",
+        "EngName": "The Great Wave",
+        "RusName": "Большая волна",
+        "Value": 126000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 28,
+        "Width": 4,
+        "Height": 3
+    },
+    {
+        "m_Name": "Painting_15",
+        "EngName": "Beata Beatrix",
+        "RusName": "Беата Беатрикс",
+        "Value": 444000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 74,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Painting_16",
+        "EngName": "A Sunday on La Grande Jatte",
+        "RusName": "Воскресный день на острове Гранд-Жатт",
+        "Value": 3072000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 512,
+        "Width": 13,
+        "Height": 9
+    },
+    {
+        "m_Name": "Painting_17",
+        "EngName": "Water Lily Pond",
+        "RusName": "Пруд с водяными лилиями",
+        "Value": 585000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 130,
+        "Width": 6,
+        "Height": 5
+    },
+    {
+        "m_Name": "Painting_18",
+        "EngName": "Why Are You Angry?",
+        "RusName": "Почему ты сердишься?",
+        "Value": 894000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 149,
+        "Width": 8,
+        "Height": 6
+    },
+    {
+        "m_Name": "Painting_19",
+        "EngName": "The Bedroom",
+        "RusName": "В спальне",
+        "Value": 1044000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 174,
+        "Width": 8,
+        "Height": 7
+    },
+    {
+        "m_Name": "Painting_2",
+        "EngName": "Verdant Landscape",
+        "RusName": "Зелёный пейзаж",
+        "Value": 18000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 6,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Painting_20",
+        "EngName": "Milarepa on Mount Kailash",
+        "RusName": "Миларепа на горе Кайлас",
+        "Value": 780000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 130,
+        "Width": 6,
+        "Height": 7
+    },
+    {
+        "m_Name": "Painting_3",
+        "EngName": "Moonlit City",
+        "RusName": "Город в лунном свете",
+        "Value": 18000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 6,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Painting_4",
+        "EngName": "Portrait of a Philosopher",
+        "RusName": "Портрет философа",
+        "Value": 18000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 6,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Painting_5",
+        "EngName": "Bedtime",
+        "RusName": "Время спать",
+        "Value": 42000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 14,
+        "Width": 3,
+        "Height": 3
+    },
+    {
+        "m_Name": "Painting_6",
+        "EngName": "Mitsuke: Ferries Crossing the Tenryu River",
+        "RusName": "Мицукэ: Паромы на реке Тэнрю",
+        "Value": 57000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 19,
+        "Width": 4,
+        "Height": 3
+    },
+    {
+        "m_Name": "Painting_7",
+        "EngName": "Café Singer",
+        "RusName": "Кафе. Певица",
+        "Value": 93000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "Painting_8",
+        "EngName": "Portrait of a Monkey",
+        "RusName": "Портрет обезьяны",
+        "Value": 441000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 98,
+        "Width": 7,
+        "Height": 6
+    },
+    {
+        "m_Name": "Painting_9",
+        "EngName": "Lozenge Composition with Yellow, Black, Blue, Red, and Gray",
+        "RusName": "Композиция в виде ромба с желтым, черным, синим, красным и серым",
+        "Value": 378000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 84,
+        "Width": 6,
+        "Height": 6
+    },
+    {
+        "m_Name": "Painting_Rabbits",
+        "EngName": "Twitch Poster 1",
+        "RusName": "Плакат Twitch 1",
+        "Value": 66600,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 37,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "Painting_Wen",
+        "EngName": "Wen Painting",
+        "RusName": "Роспись Вэнь",
+        "Value": 99999,
+        "Tags": [
+            "Искусство"
+        ],
+        "Width": 6,
+        "Height": 4
+    },
+    {
+        "m_Name": "PartitionWall_1",
+        "EngName": "Partition Wall",
+        "RusName": "Перегородка",
+        "Value": 23400,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 26,
+        "Width": 4,
+        "Height": 14
+    },
+    {
+        "m_Name": "PartitionWall_Squared",
+        "EngName": "Squared Partition Wall",
+        "RusName": "Перегородка из бруса",
+        "Value": 23400,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 26,
+        "Width": 4,
+        "Height": 14
+    },
+    {
+        "m_Name": "PhotoFrame_1",
+        "EngName": "Photo frame",
+        "RusName": "Фоторамка",
+        "Value": 1500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 1,
+        "Width": 1,
+        "Height": 1
+    },
+    {
+        "m_Name": "Poster_1",
+        "EngName": "Art Nouveau Style",
+        "RusName": "Плакат в стиле ар-нуво",
+        "Value": 0,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 15,
+        "Width": 2,
+        "Height": 4
+    },
+    {
+        "m_Name": "PumpkinLantern",
+        "EngName": "Pumpkin lantern",
+        "RusName": "Тыквенный фонарь",
+        "Value": 9000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 6,
+        "Width": 4,
+        "Height": 2
+    },
+    {
+        "m_Name": "RelaxWindow",
+        "EngName": "Relax Window",
+        "RusName": "Окно \"Расслабуха\"",
+        "Value": 22200,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 74,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "Reward_Level20_Blood",
+        "EngName": "Street Sweeper",
+        "RusName": "Street Sweeper",
+        "Value": 28500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 19,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "RockabillyJukebox",
+        "EngName": "Rockabilly Jukebox",
+        "RusName": "Музыкальный автомат",
+        "Value": 232500,
+        "Tags": [
+            "Музыкальный проигрыватель"
+        ],
+        "ImagoPoints": 62,
+        "Width": 4,
+        "Height": 8
+    },
+    {
+        "m_Name": "SailingShip",
+        "EngName": "Sailing Ship",
+        "RusName": "Парусник",
+        "Value": 133650,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 33,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Shelf_Large",
+        "EngName": "Long Shelf",
+        "RusName": "Длинная полка",
+        "Value": 85500,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 19,
+        "Width": 8,
+        "Height": 1
+    },
+    {
+        "m_Name": "Shelf_Medium",
+        "EngName": "Shelf",
+        "RusName": "Полка",
+        "Value": 27000,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 9,
+        "Width": 6,
+        "Height": 1
+    },
+    {
+        "m_Name": "Shelf_Small",
+        "EngName": "Short Shelf",
+        "RusName": "Короткая полка",
+        "Value": 4500,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 3,
+        "Width": 4,
+        "Height": 1
+    },
+    {
+        "m_Name": "Skeleton",
+        "EngName": "Skeleton",
+        "RusName": "Скелет",
+        "Value": 120600,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 67,
+        "Width": 4,
+        "Height": 10
+    },
+    {
+        "m_Name": "SlotMachine",
+        "EngName": "Slot Machine",
+        "RusName": "Игровой автомат",
+        "Value": 133650,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 33,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "SmallTable_Antique",
+        "EngName": "Antique Small Table",
+        "RusName": "Антикварный столик",
+        "Value": 166500,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "SmallTable_Century",
+        "EngName": "Century Small Table",
+        "RusName": "Столик \"Столетие\"",
+        "Value": 75000,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 25,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "SmallTable_CenturyPop",
+        "EngName": "Century Pop Small Table",
+        "RusName": "Маленький столик \"Столетие\" в стиле поп-арт",
+        "Value": 6300,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 7,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "SmallTable_Dynasty",
+        "EngName": "Dynasty Small Table",
+        "RusName": "Столик династии?",
+        "Value": 6300,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 7,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "SmallTable_Eclectic",
+        "EngName": "Eclectic Small Table",
+        "RusName": "Эклектичный столик?",
+        "Value": 166500,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "SmallTable_Factory",
+        "EngName": "Factory Small Table",
+        "RusName": "Заводской столик?",
+        "Value": 6300,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 7,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "SmallTable_MaisonMonique",
+        "EngName": "Maison Monique Small Table",
+        "RusName": "Столик Maison Monique?",
+        "Value": 166500,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "SmallTable_Rustic",
+        "EngName": "Rustic Small Table",
+        "RusName": "Деревенский столик",
+        "Value": 6300,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 7,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Sofa_CenturyPop",
+        "EngName": "Century Pop Couch",
+        "RusName": "Диван \"Столетие\" в стиле поп-арт",
+        "Value": 7200,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 12,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "Sofa_Dynasty",
+        "EngName": "Dynasty Sofa",
+        "RusName": "Диван династии?",
+        "Value": 7200,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 12,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "Sofa_Eclectic",
+        "EngName": "Eclectic Sofà",
+        "RusName": "Эклектичный диван?",
+        "Value": 418500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 93,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "Sofa_Factory",
+        "EngName": "Factory Sofa",
+        "RusName": "Заводской диван?",
+        "Value": 7200,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 12,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "Sofa_Industrial",
+        "EngName": "Industrial Sofa",
+        "RusName": "Диван в стиле индастриал",
+        "Value": 418500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 93,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "Sofa_MaisonMonique",
+        "EngName": "Maison Monique Sofa",
+        "RusName": "Диван Maison Monique?",
+        "Value": 418500,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 93,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "Sofa_Modern",
+        "EngName": "Modern Sofa",
+        "RusName": "Современный диван",
+        "Value": 7200,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 12,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "Sofa_Vintage",
+        "EngName": "Vintage Sofa",
+        "RusName": "Винтажный диван",
+        "Value": 186000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 62,
+        "Width": 8,
+        "Height": 5
+    },
+    {
+        "m_Name": "SpecialPainting_1",
+        "EngName": "The Adam Diptych",
+        "RusName": "Диптих Адама",
+        "Value": 63000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 28,
+        "Width": 6,
+        "Height": 4
+    },
+    {
+        "m_Name": "SpecialPainting_2",
+        "EngName": "Adam above the Sea of Fog",
+        "RusName": "Адам над морем тумана",
+        "Value": 303750,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 81,
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "SpecialPainting_3",
+        "EngName": "The Desperate Adam",
+        "RusName": "Отчаявшийся Адам",
+        "Value": 837000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 186,
+        "Width": 10,
+        "Height": 8
+    },
+    {
+        "m_Name": "SpecialPainting_4",
+        "EngName": "Adam's Self Portrait",
+        "RusName": "Автопортрет Адама",
+        "Value": 93000,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5
+    },
+    {
+        "m_Name": "SpecialPainting_5",
+        "EngName": "Adam as Bacchus",
+        "RusName": "Адам в образе Вакха",
+        "Value": 751500,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 167,
+        "Width": 8,
+        "Height": 9
+    },
+    {
+        "m_Name": "SteamAutumnSale22_FunnyClip",
+        "EngName": "Steam Sale 22 - Best Funny Clip",
+        "RusName": "Steam Sale 22 - Best Funny Clip",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_BestApartmentDecor",
+        "EngName": "SNF 22 - Video Award - Best Apartment Decor",
+        "RusName": "SNF 22 - Video Award - Best Apartment Decor",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_BestDevKill",
+        "EngName": "SNF 22 - Video Award - Best Dev Kill",
+        "RusName": "SNF 22 - Video Award - Best Dev Kill",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_BestFanArt",
+        "EngName": "SNF 22 - Art Award - Best Fan Art",
+        "RusName": "SNF 22 - Art Award - Best Fan Art",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_BestFunnyClip",
+        "EngName": "SNF 22 - Video Award - Best Funny Clip",
+        "RusName": "SNF 22 - Video Award - Best Funny Clip",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_BestKill",
+        "EngName": "SNF 22 - Video Award - Best Kill",
+        "RusName": "SNF 22 - Video Award - Best Kill",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_BestStreamerMoment",
+        "EngName": "SNF 22 - Video Award - Best Streamer moment",
+        "RusName": "SNF 22 - Video Award - Best Streamer moment",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostBloodCollected",
+        "EngName": "SNF 22 - Player Award - Most Blood Collected",
+        "RusName": "SNF 22 - Player Award - Most Blood Collected",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostCockroachesCollected",
+        "EngName": "SNF 22 - Player Award - Most Cockroaches Collected",
+        "RusName": "SNF 22 - Player Award - Most Cockroaches Collected",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostCreedsCollected",
+        "EngName": "SNF 22 - Player Award - Most Creeds Collected",
+        "RusName": "SNF 22 - Player Award - Most Creeds Collected",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostCupcakesCollected",
+        "EngName": "SNF 22 - Player Award - Most Cupcakes Collected",
+        "RusName": "SNF 22 - Player Award - Most Cupcakes Collected",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostGoldenItemsCollected",
+        "EngName": "SNF 22 - Player Award - Most Golden Items Collected",
+        "RusName": "SNF 22 - Player Award - Most Golden Items Collected",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostKills",
+        "EngName": "SNF 22 - Player Award - Most Kills",
+        "RusName": "SNF 22 - Player Award - Most Kills",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostMatchesSurvived",
+        "EngName": "SNF 22 - Player Award - Most Matches Survived",
+        "RusName": "SNF 22 - Player Award - Most Matches Survived",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostQuestCompleted",
+        "EngName": "SNF 22 - Player Award - Most Quests Completed",
+        "RusName": "SNF 22 - Player Award - Most Quests Completed",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostRottenFoodEaten",
+        "EngName": "SNF 22 - Player Award - Most Rotten Foods Eaten",
+        "RusName": "SNF 22 - Player Award - Most Rotten Foods Eaten",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostThingsKilled",
+        "EngName": "SNF 22 - Player Award - Most Things Killed",
+        "RusName": "SNF 22 - Player Award - Most Things Killed",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostWildBulletsCollected",
+        "EngName": "SNF 22 - Player Award - Most Wild Bullets Collected",
+        "RusName": "SNF 22 - Player Award - Most Wild Bullets Collected",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "SteamNextFest22_MostWindowsBroken",
+        "EngName": "SNF 22 - Player Award - Most Windows Broken",
+        "RusName": "SNF 22 - Player Award - Most Windows Broken",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "TableClock_1",
+        "EngName": "Table Clock",
+        "RusName": "Настольные часы",
+        "Value": 4500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 3,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "TableLamp_Aluminium",
+        "EngName": "Aluminium Table Lamp",
+        "RusName": "Алюминиевая настольная лампа?",
+        "Value": 36000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 12,
+        "Width": 2,
+        "Height": 4
+    },
+    {
+        "m_Name": "TableLamp_Classic",
+        "EngName": "Classic Table Lamp",
+        "RusName": "Классическая настольная лампа?",
+        "Value": 9000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 6,
+        "Width": 2,
+        "Height": 4
+    },
+    {
+        "m_Name": "TableLamp_Industrial",
+        "EngName": "Industrial Table Lamp",
+        "RusName": "Настольная лампа в стиле индастриал?",
+        "Value": 27000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 6,
+        "Width": 2,
+        "Height": 4
+    },
+    {
+        "m_Name": "TableLamp_Modern",
+        "EngName": "Modern Table Lamp",
+        "RusName": "Настольная лампа в стиле модерн?",
+        "Value": 27000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 6,
+        "Width": 2,
+        "Height": 4
+    },
+    {
+        "m_Name": "TableLamp_Noveau",
+        "EngName": "Nouveau Table Lamp",
+        "RusName": "Настольная лампа в стиле ар-нуво?",
+        "Value": 9000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 6,
+        "Width": 2,
+        "Height": 4
+    },
+    {
+        "m_Name": "TableLamp_Organic",
+        "EngName": "Organic Table Lamp",
+        "RusName": "Органическая настольная лампа?",
+        "Value": 9000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 6,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "Table_Chalet",
+        "EngName": "Chalet Table",
+        "RusName": "Стол Шале?",
+        "Value": 150000,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 50,
+        "Width": 8,
+        "Height": 4
+    },
+    {
+        "m_Name": "Table_Contemporary",
+        "EngName": "Contemporary Table",
+        "RusName": "Современный стол",
+        "Value": 333000,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 74,
+        "Width": 8,
+        "Height": 4
+    },
+    {
+        "m_Name": "Table_Factory",
+        "EngName": "Factory Table",
+        "RusName": "Заводской стол?",
+        "Value": 37500,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 25,
+        "Width": 8,
+        "Height": 4
+    },
+    {
+        "m_Name": "Table_Hitech",
+        "EngName": "Hi-tech Table",
+        "RusName": "Стол в стиле хай-тек?",
+        "Value": 150000,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 50,
+        "Width": 8,
+        "Height": 4
+    },
+    {
+        "m_Name": "Table_Retro",
+        "EngName": "Retro Table",
+        "RusName": "Стол в стиле ретро",
+        "Value": 37500,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 25,
+        "Width": 8,
+        "Height": 4
+    },
+    {
+        "m_Name": "Table_Rustic",
+        "EngName": "Rustic Table",
+        "RusName": "Деревенский стол",
+        "Value": 37500,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 25,
+        "Width": 8,
+        "Height": 4
+    },
+    {
+        "m_Name": "Table_Urban",
+        "EngName": "Urban Table",
+        "RusName": "Стол в урбанистическом стиле",
+        "Value": 150000,
+        "Tags": [
+            "Поверхность"
+        ],
+        "ImagoPoints": 50,
+        "Width": 8,
+        "Height": 4
+    },
+    {
+        "m_Name": "TapeRecorder",
+        "EngName": "Tape Recorder",
+        "RusName": "Магнитофон",
+        "Value": 156600,
+        "Tags": [
+            "Электроника"
+        ],
+        "ImagoPoints": 36,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Throne",
+        "EngName": "Throne",
+        "RusName": "Трон",
+        "Value": 107100,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 42,
+        "Width": 4,
+        "Height": 8
+    },
+    {
+        "m_Name": "TogetherIsBetter_Tier1",
+        "EngName": "Winter Helliday 22 - Together Is Better Tier 1",
+        "RusName": "Winter Helliday 22 - Together Is Better Tier 1",
+        "Value": 9000,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 6,
+        "Width": 4,
+        "Height": 2
+    },
+    {
+        "m_Name": "TogetherIsBetter_Tier2",
+        "EngName": "Winter Helliday 22 - Together Is Better Tier 2",
+        "RusName": "Winter Helliday 22 - Together Is Better Tier 2",
+        "Value": 9000,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 6,
+        "Width": 4,
+        "Height": 2
+    },
+    {
+        "m_Name": "TogetherIsBetter_Tier3",
+        "EngName": "Winter Helliday 22 - Together Is Better Tier 3",
+        "RusName": "Winter Helliday 22 - Together Is Better Tier 3",
+        "Value": 9000,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 6,
+        "Width": 4,
+        "Height": 2
+    },
+    {
+        "m_Name": "ToiletPaper_1",
+        "EngName": "Toilet Paper",
+        "RusName": "Туалетная бумага",
+        "Value": 4500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 3,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Toilet_MaisonMonique",
+        "EngName": "Maison Monique Toilet",
+        "RusName": "Туалет Maison Monique?",
+        "Value": 459000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 102,
+        "Width": 4,
+        "Height": 11
+    },
+    {
+        "m_Name": "Toilet_Munchen",
+        "EngName": "Munich-style Toilet",
+        "RusName": "Туалет \"Мюнхен\"",
+        "Value": 204000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 68,
+        "Width": 4,
+        "Height": 11
+    },
+    {
+        "m_Name": "Toilet_Royal",
+        "EngName": "Royal Toilet",
+        "RusName": "Королевский туалет",
+        "Value": 459000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 102,
+        "Width": 4,
+        "Height": 11
+    },
+    {
+        "m_Name": "Toilet_Traditional",
+        "EngName": "Traditional Toilet",
+        "RusName": "Традиционный туалет",
+        "Value": 51000,
+        "Tags": [
+            "Стулья"
+        ],
+        "ImagoPoints": 34,
+        "Width": 4,
+        "Height": 11
+    },
+    {
+        "m_Name": "Towel_1",
+        "EngName": "Towel",
+        "RusName": "Полотенце",
+        "Value": 7500,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "TrashBin_1",
+        "EngName": "Aluminium Basket",
+        "RusName": "Алюминиевая корзина",
+        "Value": 1800,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 2,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "TrashBin_CenturyPop",
+        "EngName": "Century Pop Trash Bin",
+        "RusName": "Мусорное ведро \"Столетие\" в стиле поп-арт",
+        "Value": 1800,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 2,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "TrashBin_Dynasty",
+        "EngName": "Dynasty Trash Bin",
+        "RusName": "Мусорное ведро династии?",
+        "Value": 1800,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 2,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Trophy_1",
+        "EngName": "Trophy",
+        "RusName": "Трофей",
+        "Value": 3500,
+        "Tags": [
+            "Трофей",
+            "Сборник"
+        ],
+        "Width": 1,
+        "Height": 1
+    },
+    {
+        "m_Name": "Trophy_DevTeam",
+        "EngName": "Golden Shark - Best Team",
+        "RusName": "Golden Shark - Best Team",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "Trophy_SteamNextFest2022_1",
+        "EngName": "Steam Next Fest - First Loop",
+        "RusName": "Steam Next Fest - First Loop",
+        "Value": 1500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 2,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "Trophy_SteamNextFest2022_2",
+        "EngName": "Steam Next Fest - Second Loop",
+        "RusName": "Steam Next Fest - Second Loop",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "Trophy_SteamNextFest2022_3",
+        "EngName": "Steam Next Fest - Third Loop",
+        "RusName": "Steam Next Fest - Third Loop",
+        "Value": 27000,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 9,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "Tv_Colonel",
+        "EngName": "Colonel TV",
+        "RusName": "Телевизор \"Полковник\"",
+        "Value": 300000,
+        "Tags": [
+            "Электроника"
+        ],
+        "ImagoPoints": 50,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Tv_Neutron",
+        "EngName": "Neutron TV",
+        "RusName": "Телевизор \"Нейтрон\"",
+        "Value": 75000,
+        "Tags": [
+            "Электроника"
+        ],
+        "ImagoPoints": 25,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "Tv_Prairie",
+        "EngName": "Prairie TV",
+        "RusName": "Телевизор \"Прерия\"",
+        "Value": 166500,
+        "Tags": [
+            "Электроника"
+        ],
+        "ImagoPoints": 37,
+        "Width": 4,
+        "Height": 4
+    },
+    {
+        "m_Name": "UprightPiano",
+        "EngName": "Upright Piano",
+        "RusName": "Фортепьяно",
+        "Value": 109200,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 52,
+        "Width": 8,
+        "Height": 6
+    },
+    {
+        "m_Name": "Vase_Celinda",
+        "EngName": "Celinda Pot",
+        "RusName": "Горшок \"Селинда\"",
+        "Value": 520000,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 28,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 800,
+        "Productivity": 100
+    },
+    {
+        "m_Name": "Vase_Eldora",
+        "EngName": "Eldora Pot",
+        "RusName": "Горшок \"Эльдора\"",
+        "Value": 318600,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 17,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 1000,
+        "Productivity": 40
+    },
+    {
+        "m_Name": "Vase_Emelina",
+        "EngName": "Emelina Pot",
+        "RusName": "Горшок \"Эмелина\"",
+        "Value": 103600,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 6,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 600,
+        "Productivity": 0
+    },
+    {
+        "m_Name": "Vase_Estella",
+        "EngName": "Estella Pot",
+        "RusName": "Горшок \"Эстелла\"",
+        "Value": 188200,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 11,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 800,
+        "Productivity": 20
+    },
+    {
+        "m_Name": "Vase_Fidela",
+        "EngName": "Fidela Pot",
+        "RusName": "Горшок \"Фидела\"",
+        "Value": 188200,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 11,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 400,
+        "Productivity": 60
+    },
+    {
+        "m_Name": "Vase_Fiona",
+        "EngName": "Fiona Pot",
+        "RusName": "Горшок \"Фиона\"",
+        "Value": 318600,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 17,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 600,
+        "Productivity": 80
+    },
+    {
+        "m_Name": "Vase_Florentina",
+        "EngName": "Florentina Pot",
+        "RusName": "Горшок \"Флорентина\"",
+        "Value": 103600,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 6,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 200,
+        "Productivity": 40
+    },
+    {
+        "m_Name": "Vase_Lucinda",
+        "EngName": "Lucinda Pot",
+        "RusName": "Горшок \"Люсинда\"",
+        "Value": 520000,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 28,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 1200,
+        "Productivity": 60
+    },
+    {
+        "m_Name": "Vase_Melinda",
+        "EngName": "Melinda Pot",
+        "RusName": "Горшок \"Мелинда\"",
+        "Value": 520000,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 28,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 1000,
+        "Productivity": 80
+    },
+    {
+        "m_Name": "Vase_Paloma",
+        "EngName": "Paloma Pot",
+        "RusName": "Горшок \"Палома\"",
+        "Value": 318600,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 17,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 800,
+        "Productivity": 60
+    },
+    {
+        "m_Name": "Vase_Pamela",
+        "EngName": "Pamela Pot",
+        "RusName": "Горшок \"Памела\"",
+        "Value": 188200,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 11,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 600,
+        "Productivity": 40
+    },
+    {
+        "m_Name": "Vase_Paulita",
+        "EngName": "Paulita Pot",
+        "RusName": "Горшок \"Паулита\"",
+        "Value": 103600,
+        "Tags": [
+            "Горшки"
+        ],
+        "ImagoPoints": 6,
+        "Width": 3,
+        "Height": 6,
+        "BulletCapacity": 400,
+        "Productivity": 20
+    },
+    {
+        "m_Name": "WallCabinet_Chalet",
+        "EngName": "Chalet Wall Cabinet",
+        "RusName": "Настенный шкаф Шале?",
+        "Value": 231000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 37,
+        "Width": 6,
+        "Height": 4,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "WallCabinet_Contemporary",
+        "EngName": "Contemporary Wall Cabinet",
+        "RusName": "Современный настенный шкаф",
+        "Value": 231000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 37,
+        "Width": 6,
+        "Height": 4,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "WallCabinet_Factory",
+        "EngName": "Factory Wall Cabinet",
+        "RusName": "Заводской настенный шкаф?",
+        "Value": 148500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 19,
+        "Width": 6,
+        "Height": 4,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "WallCabinet_Hitech",
+        "EngName": "Hi-tech Wall Cabinet",
+        "RusName": "Настенный шкаф в стиле хай-тек?",
+        "Value": 231000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 37,
+        "Width": 6,
+        "Height": 4,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "WallCabinet_Retro",
+        "EngName": "Retro Wall Cabinet",
+        "RusName": "Настенный шкаф в стиле ретро",
+        "Value": 372000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 56,
+        "Width": 6,
+        "Height": 4,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "WallCabinet_Urban",
+        "EngName": "Urban Wall Cabinet",
+        "RusName": "Настенный шкаф в урбанистическом стиле",
+        "Value": 148500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 19,
+        "Width": 6,
+        "Height": 4,
+        "Capacity": 3
+    },
+    {
+        "m_Name": "WallLamp_Aluminium",
+        "EngName": "Aluminium Wall Lamp",
+        "RusName": "Алюминиевая настенная лампа?",
+        "Value": 4500,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 3,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "WallLamp_Classic",
+        "EngName": "Classic Wall Lamp",
+        "RusName": "Классическая настенная лампа?",
+        "Value": 18000,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 6
+    },
+    {
+        "m_Name": "WallLamp_Hallway",
+        "Value": 4500,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 3,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "WallLamp_Industrial",
+        "EngName": "Industrial Wall Lamp",
+        "RusName": "Настенный светильник в стиле индастриал?",
+        "Value": 4500,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 3,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "WallLamp_Modern",
+        "EngName": "Modern Wall Lamp",
+        "RusName": "Современный настенный светильник",
+        "Value": 4500,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 3
+    },
+    {
+        "m_Name": "WallLamp_Noveau",
+        "EngName": "Nouveau Wall Lamp",
+        "RusName": "Настенный светильник в стиле ар-нуво?",
+        "Value": 4500,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 3,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "WallLamp_Organic",
+        "EngName": "Organic Wall Lamp",
+        "RusName": "Органический настенный светильник?",
+        "Value": 40500,
+        "Tags": [
+            "Светильники"
+        ],
+        "ImagoPoints": 9,
+        "Width": 2,
+        "Height": 2
+    },
+    {
+        "m_Name": "Wallpaper_AnechoicChamber",
+        "EngName": "Recording Studio Wallpaper",
+        "RusName": "Студия записи обои",
+        "Value": 2000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Bathroom",
+        "EngName": "Traditional Wallpaper",
+        "RusName": "Классические обои",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Bathroom_Dynasty",
+        "EngName": "Sugar Wallpaper",
+        "RusName": "Сахарные обои?",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Bureau_Chestnut",
+        "EngName": "Bureau Chestnut Wallpaper",
+        "RusName": "Бюро Каштан обои?",
+        "Value": 3000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Classic_Turquoise",
+        "EngName": "Classic Turquoise Wallpaper",
+        "RusName": "Классические бирюзовые обои?",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Cosy_White",
+        "EngName": "Cosy White Wallpaper",
+        "RusName": "Уютные белые обои?",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Country_White",
+        "EngName": "Country White Wallpaper",
+        "RusName": "Белые обои в стиле кантри?",
+        "Value": 2000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Damask_Grey",
+        "EngName": "Damask Grey Wallpaper",
+        "RusName": "Дамасские серые обои?",
+        "Value": 3000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Default",
+        "EngName": "Smoke Grey Wallpaper",
+        "RusName": "Дымчатые обои",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Dynasty",
+        "EngName": "Dynasty Wallpaper",
+        "RusName": "Обои династии?",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Hallway",
+        "EngName": "Deluxe Wallpaper",
+        "RusName": "Обои класса люкс",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Imperial_Blue",
+        "EngName": "Imperial Blue Wallpaper",
+        "RusName": "Имперские синие обои?",
+        "Value": 3000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Kitchen",
+        "EngName": "Good Old Days Wallpaper",
+        "RusName": "Обои \"Старые добрые времена\"",
+        "Value": 2000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_LivingRoom",
+        "EngName": "Victorian Wallpaper",
+        "RusName": "Викторианские обои",
+        "Value": 3000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Metro_Emerald",
+        "EngName": "Metro Emerald Wallpaper",
+        "RusName": "Изумрудные обои?",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Pastel",
+        "EngName": "Pastel Wallpaper",
+        "RusName": "Пастельные обои",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Piper",
+        "EngName": "Piper Wallpaper",
+        "RusName": "Обои с рисунком \"Пайпер\"",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Plaster_Red",
+        "EngName": "Plaster Red Wallpaper",
+        "RusName": "Гипсовые красные обои?",
+        "Value": 1000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_StoneBricks_Red",
+        "EngName": "Stone Bricks Red Wallpaper",
+        "RusName": "Кирпичные обои?",
+        "Value": 2000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "Wallpaper_Stripes_Green",
+        "EngName": "Stripes Green Wallpaper",
+        "RusName": "Зелёные обои в полоску?",
+        "Value": 2000,
+        "Tags": [
+            "Обои"
+        ],
+        "Width": 4,
+        "Height": 18
+    },
+    {
+        "m_Name": "WallPhone_1",
+        "EngName": "Wall phone",
+        "RusName": "Настенный телефон",
+        "Value": 7500,
+        "Tags": [
+            "Телефоны"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "WallSafe",
+        "EngName": "Wall Safe",
+        "RusName": "Сейф в стене",
+        "Value": 242000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 28,
+        "Width": 4,
+        "Height": 4,
+        "Capacity": 5
+    },
+    {
+        "m_Name": "Wardrobe_Antique",
+        "EngName": "Antique Wardrobe",
+        "RusName": "Антикварный гардероб",
+        "Value": 950000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 140,
+        "Width": 6,
+        "Height": 10,
+        "Capacity": 8
+    },
+    {
+        "m_Name": "Wardrobe_Century",
+        "EngName": "Century Wardrobe",
+        "RusName": "Гардероб \"Столетие\"",
+        "Value": 599000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 93,
+        "Width": 6,
+        "Height": 10,
+        "Capacity": 8
+    },
+    {
+        "m_Name": "Wardrobe_Eclectic",
+        "EngName": "Eclectic Wardrobe",
+        "RusName": "Эклектичный гардероб?",
+        "Value": 950000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 140,
+        "Width": 6,
+        "Height": 10,
+        "Capacity": 8
+    },
+    {
+        "m_Name": "Wardrobe_Factory",
+        "EngName": "Factory Wardrobe",
+        "RusName": "Заводской гардероб?",
+        "Value": 390500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 47,
+        "Width": 6,
+        "Height": 10,
+        "Capacity": 8
+    },
+    {
+        "m_Name": "Wardrobe_MaisonMonique",
+        "EngName": "Maison Monique Wardrobe",
+        "RusName": "Гардероб Maison?",
+        "Value": 950000,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 140,
+        "Width": 6,
+        "Height": 10,
+        "Capacity": 8
+    },
+    {
+        "m_Name": "Wardrobe_Rustic",
+        "EngName": "Rustic Wardrobe",
+        "RusName": "Деревенский гардероб",
+        "Value": 390500,
+        "Tags": [
+            "Контейнер"
+        ],
+        "ImagoPoints": 47,
+        "Width": 6,
+        "Height": 10,
+        "Capacity": 8
+    },
+    {
+        "m_Name": "WashingMachine_Nebula",
+        "EngName": "Nebula Washing Machine",
+        "RusName": "Стиральная машина \"Небула\"",
+        "Value": 93000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 31,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "WashingMachine_Pulsar",
+        "EngName": "Pulsar Washing Machine",
+        "RusName": "Стиральная машина \"Пульсар\"",
+        "Value": 211500,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 47,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "WashingMachine_Vega",
+        "EngName": "Vega Washing Machine",
+        "RusName": "Стиральная машина \"Вега\"",
+        "Value": 24000,
+        "Tags": [
+            "Экстрактор"
+        ],
+        "ImagoPoints": 16,
+        "Width": 4,
+        "Height": 5,
+        "Capacity": 1
+    },
+    {
+        "m_Name": "Window_1",
+        "EngName": "Century City Window",
+        "RusName": "Окно \"Столетие\"",
+        "Value": 55500,
+        "Tags": [
+            "Искусство"
+        ],
+        "ImagoPoints": 37,
+        "Width": 6,
+        "Height": 8
+    },
+    {
+        "m_Name": "WinterHelliday22_HolidayFanart",
+        "EngName": "Winter Helliday 22 - Best Holiday Fanart",
+        "RusName": "Winter Helliday 22 - Best Holiday Fanart",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "WinterHelliday22_MostGiftsOpened",
+        "EngName": "Winter Helliday 22 - Most Gifts Opened",
+        "RusName": "Winter Helliday 22 - Most Gifts Opened",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "WinterHelliday22_RevengeClip",
+        "EngName": "Winter Helliday 22 - Best Revenge Clip",
+        "RusName": "Winter Helliday 22 - Best Revenge Clip",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "WinterHelliday22_ScaryClip",
+        "EngName": "Winter Helliday 22 - Best Scary Clip",
+        "RusName": "Winter Helliday 22 - Best Scary Clip",
+        "Value": 7500,
+        "Tags": [
+            "Трофей"
+        ],
+        "ImagoPoints": 5,
+        "Width": 2,
+        "Height": 3
+    },
+    {
+        "m_Name": "WoodenGlobe",
+        "EngName": "Wooden Globe",
+        "RusName": "Деревянный глобус",
+        "Value": 148350,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 43,
+        "Width": 4,
+        "Height": 6
+    },
+    {
+        "m_Name": "WoodStove",
+        "EngName": "Wood Stove",
+        "RusName": "Дровяная печь",
+        "Value": 151200,
+        "Tags": [
+            "Сборник"
+        ],
+        "ImagoPoints": 56,
+        "Width": 4,
+        "Height": 10
+    }
+]

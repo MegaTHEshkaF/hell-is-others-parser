@@ -1,0 +1,2468 @@
+{
+    "items": {
+        "AbsintheShot": {
+            "eng": "Absinthe Shot",
+            "rus": "Стакан абсента"
+        },
+        "AdrenalineInjector": {
+            "eng": "Adrenaline Injector",
+            "rus": "Шприц с адреналином"
+        },
+        "AverageHeart": {
+            "eng": "Average Heart",
+            "rus": "Среднее сердце"
+        },
+        "AverageHeart_Rotten": {
+            "eng": "Rotten Average Heart",
+            "rus": "Испорченное среднее сердце"
+        },
+        "Bandages": {
+            "eng": "Bandages",
+            "rus": "Бинты"
+        },
+        "Battery": {
+            "eng": "Battery",
+            "rus": "Батарея"
+        },
+        "Bladder": {
+            "eng": "Bladder",
+            "rus": "Мочевой пузырь"
+        },
+        "BladderOil": {
+            "eng": "Bladder Oil",
+            "rus": "Масло из мочевого пузыря"
+        },
+        "BloodBag": {
+            "eng": "Blood Bag",
+            "rus": "Пакет с кровью"
+        },
+        "BloodVial_Large": {
+            "eng": "Large Blood Vial",
+            "rus": "Большой флакон крови"
+        },
+        "BloodVial_Medium": {
+            "eng": "Medium Blood Vial",
+            "rus": "Средний флакон крови"
+        },
+        "BloodVial_Small": {
+            "eng": "Tiny Blood Vial",
+            "rus": "Меленький флакон крови"
+        },
+        "Bolt": {
+            "eng": "Bolt",
+            "rus": "Болт"
+        },
+        "Bone": {
+            "eng": "Bone",
+            "rus": "Кость"
+        },
+        "BonePowder": {
+            "eng": "Bone Powder",
+            "rus": "Костный порошок"
+        },
+        "BottleOfBlood": {
+            "eng": "Bottle Of Blood",
+            "rus": "Бутылка с кровью"
+        },
+        "Bracelet": {
+            "eng": "Bracelet",
+            "rus": "Браслет"
+        },
+        "Brain": {
+            "eng": "Brain",
+            "rus": "Мозг"
+        },
+        "BrainOil": {
+            "eng": "Brain Oil",
+            "rus": "Масло из мозга"
+        },
+        "Bullet_Mutatus": {
+            "eng": "Modified Bullet",
+            "rus": "Мод-пуля"
+        },
+        "Bullet_Vulgaris": {
+            "eng": "Wild Bullet",
+            "rus": "Дикая пуля"
+        },
+        "Burrito": {
+            "eng": "Burrito",
+            "rus": "Буррито"
+        },
+        "Burrito_Rotten": {
+            "eng": "Rotten Burrito",
+            "rus": "Испорченный буррито"
+        },
+        "Cake": {
+            "eng": "Cake",
+            "rus": "Кусок пирога"
+        },
+        "Cake_Rotten": {
+            "eng": "Rotten Cake",
+            "rus": "Испорченный кусок пирога"
+        },
+        "Candy": {
+            "eng": "Candy",
+            "rus": "Конфеты"
+        },
+        "CannedMeat": {
+            "eng": "CannedMeat",
+            "rus": "Мясные консервы"
+        },
+        "Chisel": {
+            "eng": "Chisel",
+            "rus": "Зубило"
+        },
+        "Claw": {
+            "eng": "Claw",
+            "rus": "Коготь"
+        },
+        "ClawPowder": {
+            "eng": "Claw Powder",
+            "rus": "Порошок из когтей"
+        },
+        "Cockroach": {
+            "eng": "Cockroach",
+            "rus": "Таракан"
+        },
+        "Cola": {
+            "eng": "Cola",
+            "rus": "Кола"
+        },
+        "Crisps": {
+            "eng": "Crisps",
+            "rus": "Чипсы"
+        },
+        "Cupcake": {
+            "eng": "Cupcake",
+            "rus": "Кекс"
+        },
+        "Cupcake_Rotten": {
+            "eng": "Rotten Cupcake",
+            "rus": "Испорченный кекс"
+        },
+        "Deodorant": {
+            "eng": "Deodorant",
+            "rus": "Дезодорант"
+        },
+        "DuctTape": {
+            "eng": "Duct Tape",
+            "rus": "Скотч"
+        },
+        "Earrings": {
+            "eng": "Earrings",
+            "rus": "Серьги"
+        },
+        "EnergyDrink": {
+            "eng": "Energy Drink",
+            "rus": "Энергетик"
+        },
+        "EnormousHeart": {
+            "eng": "Colossal Heart",
+            "rus": "Огромное сердце"
+        },
+        "EnormousHeart_Rotten": {
+            "eng": "Rotten Colossal Heart",
+            "rus": "Испорченное огромное сердце"
+        },
+        "Excrement": {
+            "eng": "Excrement",
+            "rus": "Экскременты"
+        },
+        "ExcrementOil": {
+            "eng": "Excrement Oil",
+            "rus": "Масло из экскрементов"
+        },
+        "Eye": {
+            "eng": "Eye",
+            "rus": "Глаз"
+        },
+        "EyeOil": {
+            "eng": "Eye Oil",
+            "rus": "Масло из глаз"
+        },
+        "Falafel": {
+            "eng": "Falafel",
+            "rus": "Фалафель"
+        },
+        "Falafel_Rotten": {
+            "eng": "Rotten Falafel",
+            "rus": "Испорченный фалафель"
+        },
+        "Feather": {
+            "eng": "Feather",
+            "rus": "Перо"
+        },
+        "FeatherPowder": {
+            "eng": "Feather Powder",
+            "rus": "Порошок из перьев"
+        },
+        "Fin": {
+            "eng": "Fin",
+            "rus": "Плавник"
+        },
+        "FinOil": {
+            "eng": "Fin Oil",
+            "rus": "Масло из плавников"
+        },
+        "Fork": {
+            "eng": "Fork",
+            "rus": "Вилка"
+        },
+        "FragGrenade": {
+            "eng": "Frag Grenade",
+            "rus": "Граната"
+        },
+        "Glue": {
+            "eng": "Glue",
+            "rus": "Клей"
+        },
+        "Hammer": {
+            "eng": "Hammer",
+            "rus": "Молоток"
+        },
+        "HardDisk": {
+            "eng": "Hard Disk",
+            "rus": "Жёсткий диск"
+        },
+        "HumanHeart": {
+            "eng": "Human Heart",
+            "rus": "Человеческое сердце"
+        },
+        "HumanHeart_Rotten": {
+            "eng": "Rotten Human Heart",
+            "rus": "Испорченное человеческое сердце"
+        },
+        "Ink": {
+            "eng": "Ink",
+            "rus": "Чернила"
+        },
+        "Knife": {
+            "eng": "Knife",
+            "rus": "Нож"
+        },
+        "LandMine": {
+            "eng": "Land Mine",
+            "rus": "Мина"
+        },
+        "LargeHeart": {
+            "eng": "Large Heart",
+            "rus": "Большое сердце"
+        },
+        "LargeHeart_Rotten": {
+            "eng": "Rotten Large Heart",
+            "rus": "Испорченное большое сердце"
+        },
+        "LightBulb": {
+            "eng": "Light Bulb",
+            "rus": "Лампочка"
+        },
+        "Medkit": {
+            "eng": "Medkit",
+            "rus": "Аптечка"
+        },
+        "Medkit_Plus": {
+            "eng": "Medkit Plus",
+            "rus": "Улучшенная аптечка"
+        },
+        "Medkit_Premium": {
+            "eng": "Premium Medkit",
+            "rus": "Премиум-аптечка"
+        },
+        "Microchip": {
+            "eng": "Microchip",
+            "rus": "Микрочип"
+        },
+        "Money": {
+            "eng": "Money",
+            "rus": "Кредо"
+        },
+        "Nail": {
+            "eng": "Nail",
+            "rus": "Гвоздь"
+        },
+        "Necklace": {
+            "eng": "Necklace",
+            "rus": "Ожерелье"
+        },
+        "Oftarium": {
+            "eng": "Oftarium",
+            "rus": "Офтариум"
+        },
+        "Oftatus": {
+            "eng": "Oftatus",
+            "rus": "Офтатус"
+        },
+        "OldCoin": {
+            "eng": "Old Coin",
+            "rus": "Старая монета"
+        },
+        "Pancake": {
+            "eng": "Pancake",
+            "rus": "Блин"
+        },
+        "Pancake_Rotten": {
+            "eng": "Rotten Pancake",
+            "rus": "Испорченный блин"
+        },
+        "Paper": {
+            "eng": "Paper",
+            "rus": "Бумага"
+        },
+        "Pen": {
+            "eng": "Pen",
+            "rus": "Авторучка"
+        },
+        "Pencil": {
+            "eng": "Pencil",
+            "rus": "Карандаш"
+        },
+        "Photocell": {
+            "eng": "Photocell",
+            "rus": "Фотоэлемент"
+        },
+        "PlateletGelInjector": {
+            "eng": "Platelet Gel Injector",
+            "rus": "Шприц с тромбоцитарным гелем"
+        },
+        "Pnerhinus": {
+            "eng": "Pnerhinus",
+            "rus": "Пнеринус"
+        },
+        "Pnerium": {
+            "eng": "Pnerium",
+            "rus": "Пнериум"
+        },
+        "Pnetatus": {
+            "eng": "Pnetatus",
+            "rus": "Пнетатус"
+        },
+        "Pnetus": {
+            "eng": "Pnetus",
+            "rus": "Пнетус"
+        },
+        "PocketWatch": {
+            "eng": "Pocket Watch",
+            "rus": "Карманные часы"
+        },
+        "ProximityMine": {
+            "eng": "Proximity Mine",
+            "rus": "Бесконтактная мина"
+        },
+        "Rhinorium": {
+            "eng": "Rhinorium",
+            "rus": "Ринориум"
+        },
+        "Rhinotus": {
+            "eng": "Rhinotus",
+            "rus": "Ринотус"
+        },
+        "Ring": {
+            "eng": "Ring",
+            "rus": "Кольцо"
+        },
+        "Saw": {
+            "eng": "Saw",
+            "rus": "Пила"
+        },
+        "Scissors": {
+            "eng": "Scissors",
+            "rus": "Ножницы"
+        },
+        "Screw": {
+            "eng": "Screw",
+            "rus": "Шуруп"
+        },
+        "Screwdriver": {
+            "eng": "Screwdriver",
+            "rus": "Отвёртка"
+        },
+        "Somarium": {
+            "eng": "Somarium",
+            "rus": "Сомариум"
+        },
+        "Somatus": {
+            "eng": "Somatus",
+            "rus": "Соматус"
+        },
+        "Somoftus": {
+            "eng": "Somoftus",
+            "rus": "Сомофтус"
+        },
+        "SparkIgniter": {
+            "eng": "Spark Igniter",
+            "rus": "Свеча зажигания"
+        },
+        "Spoon": {
+            "eng": "Spoon",
+            "rus": "Ложка"
+        },
+        "Spring": {
+            "eng": "Spring",
+            "rus": "Пружина"
+        },
+        "Tachirium": {
+            "eng": "Tachirium",
+            "rus": "Тахириум"
+        },
+        "Tachitus": {
+            "eng": "Tachitus",
+            "rus": "Тахитус"
+        },
+        "Taco": {
+            "eng": "Taco",
+            "rus": "Тако"
+        },
+        "Tacoftus": {
+            "eng": "Tacoftus",
+            "rus": "Такофтус"
+        },
+        "Taco_Rotten": {
+            "eng": "Rotten Taco",
+            "rus": "Испорченный тако"
+        },
+        "TapeMeasure": {
+            "eng": "Tape Measure",
+            "rus": "Рулетка"
+        },
+        "Tentacle": {
+            "eng": "Tentacle",
+            "rus": "Щупальце"
+        },
+        "TentacleOil": {
+            "eng": "Tentacle Oil",
+            "rus": "Масло из щупалец"
+        },
+        "TinyHeart": {
+            "eng": "Tiny Heart",
+            "rus": "Крошечное сердце"
+        },
+        "TinyHeart_Rotten": {
+            "eng": "Rotten Tiny Heart",
+            "rus": "Испорченное крошечное сердце"
+        },
+        "Tongue": {
+            "eng": "Tongue",
+            "rus": "Язык"
+        },
+        "TongueOil": {
+            "eng": "Tongue Oil",
+            "rus": "Масло из языка"
+        },
+        "Tooth": {
+            "eng": "Tooth",
+            "rus": "Зуб"
+        },
+        "ToothPowder": {
+            "eng": "Tooth Powder",
+            "rus": "Порошок из зубов"
+        },
+        "TVRemote": {
+            "eng": "TV Remote",
+            "rus": "Пульт от телевизора"
+        },
+        "VodkaShot": {
+            "eng": "Vodka Shot",
+            "rus": "Рюмка водки"
+        },
+        "WaferBar": {
+            "eng": "Wafer Bar",
+            "rus": "Вафельный батончик"
+        },
+        "Weapon_BaseballBat": {
+            "eng": "Baseball Bat",
+            "rus": "Бейсбольная бита"
+        },
+        "Weapon_DrFisher++": {
+            "eng": "Dr Fisher ++",
+            "rus": "Доктор Фишер ++"
+        },
+        "Weapon_DrFisher+": {
+            "eng": "Dr Fisher +",
+            "rus": "Доктор Фишер +"
+        },
+        "Weapon_DrFisher": {
+            "eng": "Dr Fisher",
+            "rus": "Доктор Фишер"
+        },
+        "Weapon_Fists": {
+            "eng": "Fists",
+            "rus": "Кулаки"
+        },
+        "Weapon_Katana": {
+            "eng": "Katana",
+            "rus": "Катана"
+        },
+        "Weapon_KnuckleDusters": {
+            "eng": "Knuckle Dusters",
+            "rus": "Кастет"
+        },
+        "Weapon_LadyButler++": {
+            "eng": "Lady Butler ++",
+            "rus": "Леди Батлер ++"
+        },
+        "Weapon_LadyButler+": {
+            "eng": "Lady Butler +",
+            "rus": "Леди Батлер +"
+        },
+        "Weapon_LadyButler": {
+            "eng": "Lady Butler",
+            "rus": "Леди Батлер"
+        },
+        "Weapon_LadyMarshall++": {
+            "eng": "Lady Marshall ++",
+            "rus": "Леди Маршал ++"
+        },
+        "Weapon_LadyMarshall+": {
+            "eng": "Lady Marshall +",
+            "rus": "Леди Маршал +"
+        },
+        "Weapon_LadyMarshall": {
+            "eng": "Lady Marshall",
+            "rus": "Леди Маршал"
+        },
+        "Weapon_LadySaunders++": {
+            "eng": "Lady Saunders ++",
+            "rus": "Леди Сондерс ++"
+        },
+        "Weapon_LadySaunders+": {
+            "eng": "Lady Saunders +",
+            "rus": "Леди Сондерс +"
+        },
+        "Weapon_LadySaunders": {
+            "eng": "Lady Saunders",
+            "rus": "Леди Сондерс"
+        },
+        "Weapon_MissHarvey++": {
+            "eng": "Miss Harvey ++",
+            "rus": "Мисс Харви ++"
+        },
+        "Weapon_MissHarvey+": {
+            "eng": "Miss Harvey +",
+            "rus": "Мисс Харви +"
+        },
+        "Weapon_MissHarvey": {
+            "eng": "Miss Harvey",
+            "rus": "Мисс Харви"
+        },
+        "Weapon_MissMurphy++": {
+            "eng": "Miss Murphy ++",
+            "rus": "Мисс Мёрфи ++"
+        },
+        "Weapon_MissMurphy+": {
+            "eng": "Miss Murphy +",
+            "rus": "Мисс Мёрфи +"
+        },
+        "Weapon_MissMurphy": {
+            "eng": "Miss Murphy",
+            "rus": "Мисс Мёрфи"
+        },
+        "Weapon_MissPayne++": {
+            "eng": "Miss Payne ++",
+            "rus": "Мисс Пэйн ++"
+        },
+        "Weapon_MissPayne+": {
+            "eng": "Miss Payne +",
+            "rus": "Мисс Пэйн +"
+        },
+        "Weapon_MissPayne": {
+            "eng": "Miss Payne",
+            "rus": "Мисс Пэйн"
+        },
+        "Weapon_MissRosebud": {
+            "eng": "Miss Rosebud",
+            "rus": "Мисс Роза"
+        },
+        "Weapon_MrChapman++": {
+            "eng": "Mr Chapman ++",
+            "rus": "Мистер Чэпмен ++"
+        },
+        "Weapon_MrChapman+": {
+            "eng": "Mr Chapman +",
+            "rus": "Мистер Чэпмен +"
+        },
+        "Weapon_MrChapman": {
+            "eng": "Mr Chapman",
+            "rus": "Мистер Чэпмен"
+        },
+        "Weapon_MrGrant++": {
+            "eng": "Mr Grant ++",
+            "rus": "Мистер Грант ++"
+        },
+        "Weapon_MrGrant+": {
+            "eng": "Mr Grant +",
+            "rus": "Мистер Грант +"
+        },
+        "Weapon_MrGrant": {
+            "eng": "Mr Grant",
+            "rus": "Мистер Грант"
+        },
+        "Weapon_MrsBell++": {
+            "eng": "Mrs Bell ++",
+            "rus": "Миссис Бэл ++"
+        },
+        "Weapon_MrsBell+": {
+            "eng": "Mrs Bell +",
+            "rus": "Миссис Бэл +"
+        },
+        "Weapon_MrsBell": {
+            "eng": "Mrs Bell",
+            "rus": "Миссис Бэл"
+        },
+        "Weapon_MrsKelly++": {
+            "eng": "Mrs Kelly ++",
+            "rus": "Миссис Келли ++"
+        },
+        "Weapon_MrsKelly+": {
+            "eng": "Mrs Kelly +",
+            "rus": "Миссис Келли +"
+        },
+        "Weapon_MrsKelly": {
+            "eng": "Mrs Kelly",
+            "rus": "Миссис Келли"
+        },
+        "Weapon_MrsPowell++": {
+            "eng": "Mrs Powell ++",
+            "rus": "Миссис Пауэл ++"
+        },
+        "Weapon_MrsPowell+": {
+            "eng": "Mrs Powell +",
+            "rus": "Миссис Пауэл +"
+        },
+        "Weapon_MrsPowell": {
+            "eng": "Mrs Powell",
+            "rus": "Миссис Пауэл"
+        },
+        "Weapon_MrWatts++": {
+            "eng": "Mr Watts ++",
+            "rus": "Мистер Уотс ++"
+        },
+        "Weapon_MrWatts+": {
+            "eng": "Mr Watts +",
+            "rus": "Мистер Уотс +"
+        },
+        "Weapon_MrWatts": {
+            "eng": "Mr Watts",
+            "rus": "Мистер Уотс"
+        },
+        "Weapon_SirArmstrong++": {
+            "eng": "Sir Armstrong ++",
+            "rus": "Сэр Армстронг ++"
+        },
+        "Weapon_SirArmstrong+": {
+            "eng": "Sir Armstrong +",
+            "rus": "Сэр Армстронг +"
+        },
+        "Weapon_SirArmstrong": {
+            "eng": "Sir Armstrong",
+            "rus": "Сэр Армстронг"
+        },
+        "Weapon_SirLloyd++": {
+            "eng": "Sir Lloyd ++",
+            "rus": "Сэр Ллойд ++"
+        },
+        "Weapon_SirLloyd+": {
+            "eng": "Sir Lloyd +",
+            "rus": "Сэр Ллойд +"
+        },
+        "Weapon_SirLloyd": {
+            "eng": "Sir Lloyd",
+            "rus": "Сэр Ллойд"
+        },
+        "Weapon_SirMorris++": {
+            "eng": "Sir Morris ++",
+            "rus": "Сэр Моррис ++"
+        },
+        "Weapon_SirMorris+": {
+            "eng": "Sir Morris +",
+            "rus": "Сэр Моррис +"
+        },
+        "Weapon_SirMorris": {
+            "eng": "Sir Morris",
+            "rus": "Сэр Моррис"
+        },
+        "Wires": {
+            "eng": "Wires",
+            "rus": "Провода"
+        },
+        "Wrench": {
+            "eng": "Wrench",
+            "rus": "Гаечный ключ"
+        },
+        "BearTrap": {
+            "eng": "Bear Trap",
+            "rus": "Капкан?"
+        },
+        "Claymore": {
+            "eng": "Claymore",
+            "rus": "Клеймор?"
+        },
+        "Flashbang": {
+            "eng": "Flashbang",
+            "rus": "Светошумовая граната?"
+        },
+        "GlueGrenade": {
+            "eng": "Glue Grenade",
+            "rus": "Клейкая граната?"
+        },
+        "Molotov": {
+            "eng": "Molotov",
+            "rus": "Молотов?"
+        },
+        "SmokeGrenade": {
+            "eng": "Smoke Grenade",
+            "rus": "Дымовая шашка?"
+        },
+        "ShortRangeClaymore": {
+            "eng": "!ShortRangeClaymore",
+            "rus": "Клеймор малой дальности?"
+        },
+        "Weapon_MissElliott++": {
+            "eng": "!Miss Elliott ++",
+            "rus": "Мисс Элиот ++"
+        },
+        "Weapon_MissElliott+": {
+            "eng": "!Miss Elliott +",
+            "rus": "Мисс Элиот +"
+        },
+        "Weapon_MissElliott": {
+            "eng": "!Miss Elliott",
+            "rus": "Мисс Элиот"
+        },
+        "FakeHeart": {
+            "eng": "!Mechanical Heart",
+            "rus": "Механическое сердце"
+        },
+        "Stone": {
+            "eng": "!Stone",
+            "rus": "Камень"
+        },
+        "Panacea": {
+            "eng": "!Panacea",
+            "rus": "Панацея?"
+        },
+        "MissRosebudTrophy": {
+            "eng": "!MissRosebudTrophy",
+            "rus": "Трофейная Мисс Роза?"
+        }
+    },
+    "furniture": {
+        "19thCenturyCabinet": {
+            "eng": "19th Century Display Cabinet",
+            "rus": "Сервант 19-го века"
+        },
+        "ActionFigure": {
+            "eng": "Action Figure",
+            "rus": "Экшен-фигурка"
+        },
+        "AdonisWithGun": {
+            "eng": "Adonis with Gun",
+            "rus": "Адонис с пистолетом"
+        },
+        "AntiqueTrunk": {
+            "eng": "Antique Trunk",
+            "rus": "Старинный сундук"
+        },
+        "Armchair_Eclectic": {
+            "eng": "Eclectic Armchair",
+            "rus": "Эклектичное кресло?"
+        },
+        "Armchair_Industrial": {
+            "eng": "Industrial Armchair",
+            "rus": "Кресло в стиле индастриал"
+        },
+        "Armchair_MaisonMonique": {
+            "eng": "Maison Monique Armchair",
+            "rus": "Кресло Maison Monique?"
+        },
+        "Armchair_Modern": {
+            "eng": "Modern Armchair",
+            "rus": "Современное кресло"
+        },
+        "Armchair_Vintage": {
+            "eng": "Vintage Armchair",
+            "rus": "Винтажное кресло"
+        },
+        "ArtDecoSafe": {
+            "eng": "Art Deco Safe",
+            "rus": "Сейф в стиле ар-деко"
+        },
+        "BathroomSink_CenturyPop": {
+            "eng": "Century Pop Sink",
+            "rus": "Раковина \"Столетие\" в стиле поп-арт"
+        },
+        "BathroomSink_Dynasty": {
+            "eng": "Dynasty Bathroom Sink",
+            "rus": "Раковина династии?"
+        },
+        "BathroomSink_MaisonMonique": {
+            "eng": "Maison Monique Bathroom Sink",
+            "rus": "Раковина для ванной комнаты Maison Monique?"
+        },
+        "BathroomSink_Munchen": {
+            "eng": "Munich-style Bathroom Sink",
+            "rus": "Раковина для ванной комнаты \"Мюнхен\""
+        },
+        "BathroomSink_Royal": {
+            "eng": "Royal Bathroom Sink",
+            "rus": "Королевская раковина для ванной комнаты"
+        },
+        "BathroomSink_Traditional": {
+            "eng": "Traditional Bathroom Sink",
+            "rus": "Традиционная раковина для ванной комнаты"
+        },
+        "Bathtub_MaisonMonique": {
+            "eng": "Maison Monique Bathtub",
+            "rus": "Ванна Maison Monique?"
+        },
+        "Bathtub_Munchen": {
+            "eng": "Munich-style Bathtub",
+            "rus": "Ванна \"Мюнхен\""
+        },
+        "Bathtub_Royal": {
+            "eng": "Royal Bathtub",
+            "rus": "Королевская ванна"
+        },
+        "Bathtub_Traditional": {
+            "eng": "Traditional Bathtub",
+            "rus": "Традиционная ванна"
+        },
+        "Bed_Antique": {
+            "eng": "Antique Bed",
+            "rus": "Антикварная кровать"
+        },
+        "Bed_Century": {
+            "eng": "Century Bed",
+            "rus": "Кровать \"Столетие\""
+        },
+        "Bed_Eclectic": {
+            "eng": "Eclectic Bed",
+            "rus": "Эклектичная кровать?"
+        },
+        "Bed_Factory": {
+            "eng": "Factory Bed",
+            "rus": "Заводская кровать?"
+        },
+        "Bed_MaisonMonique": {
+            "eng": "Maison Monique Bed",
+            "rus": "Кровать Maison Monique?"
+        },
+        "Bed_Rustic": {
+            "eng": "Rustic Bed",
+            "rus": "Деревенская кровать"
+        },
+        "BlueMing": {
+            "eng": "Blue Ming",
+            "rus": "Ваза династии Мин"
+        },
+        "Bonsai": {
+            "eng": "Bonsai",
+            "rus": "Бонсай"
+        },
+        "Books_1": {
+            "eng": "Books",
+            "rus": "Книги"
+        },
+        "Bottle_1": {
+            "eng": "Whiskey Bottle",
+            "rus": "Бутылка виски"
+        },
+        "Bottle_RiceWine": {
+            "eng": "Rice Wine Bottle",
+            "rus": "Бутылка рисового вина?"
+        },
+        "Bottle_Wine": {
+            "eng": "Wine Bottle",
+            "rus": "Бутылка вина"
+        },
+        "Carnival1_HuntTheDevs": {
+            "eng": "Carnival 1 - Hunt the Devs",
+            "rus": "Carnival 1 - Hunt the Devs"
+        },
+        "CeilingLamp_CenturyPop": {
+            "eng": "Century Pop Chandelier",
+            "rus": "Люстра \"Столетие\" в стиле поп-арт"
+        },
+        "Chair_Chalet": {
+            "eng": "Chalet Chair",
+            "rus": "Стул Шале?"
+        },
+        "Chair_Contemporary": {
+            "eng": "Contemporary Chair",
+            "rus": "Современный стул"
+        },
+        "Chair_Factory": {
+            "eng": "Factory Chair",
+            "rus": "Заводской стул?"
+        },
+        "Chair_Hitech": {
+            "eng": "Hi-tech Chair",
+            "rus": "Стул в стиле хай-тек"
+        },
+        "Chair_Retro": {
+            "eng": "Retro Chair",
+            "rus": "Стул в стиле ретро"
+        },
+        "Chair_Rustic": {
+            "eng": "Rustic Chair",
+            "rus": "Деревенский стул"
+        },
+        "Chair_Urban": {
+            "eng": "Urban Chair",
+            "rus": "Стул в урбанистическом стиле"
+        },
+        "Chandelier_Aluminium": {
+            "eng": "Aluminium Ceiling Lamp",
+            "rus": "Алюминиевый потолочный светильник"
+        },
+        "Chandelier_Classic": {
+            "eng": "Classic Chandelier",
+            "rus": "Классическая люстра?"
+        },
+        "Chandelier_Dynasty": {
+            "eng": "Dynasty Chandelier",
+            "rus": "Люстра династии?"
+        },
+        "Chandelier_Industrial": {
+            "eng": "Industrial Chandelier",
+            "rus": "Люстра в стиле индастриал?"
+        },
+        "Chandelier_Modern": {
+            "eng": "Modern Chandelier",
+            "rus": "Люстра в стиле модерн?"
+        },
+        "Chandelier_Noveau": {
+            "eng": "Nouveau Chandelier",
+            "rus": "Люстра в стиле ар-нуво?"
+        },
+        "Chandelier_Organic": {
+            "eng": "Organic Chandelier",
+            "rus": "Органическая люстра?"
+        },
+        "ChristmasTree": {
+            "eng": "Christmas Tree",
+            "rus": "Рождественская ёлка?"
+        },
+        "Clock_Basic": {
+            "eng": "Basic Clock",
+            "rus": "Обычные часы?"
+        },
+        "Clock_Cuckoo": {
+            "eng": "Cuckoo Clock",
+            "rus": "Часы с кукушкой?"
+        },
+        "Clock_Pendulum": {
+            "eng": "Pendulum Clock",
+            "rus": "Маятниковые часы?"
+        },
+        "Computer": {
+            "eng": "Olivia Computer",
+            "rus": "Компьютер Оливия"
+        },
+        "CrystalChandelier": {
+            "eng": "Crystal Chandelier",
+            "rus": "Хрустальная люстра"
+        },
+        "DistortedMirror": {
+            "eng": "Blurred Mirror",
+            "rus": "Кривое зеркало"
+        },
+        "DollHouse": {
+            "eng": "Doll House",
+            "rus": "Кукольный домик"
+        },
+        "Door_AccountantRoom": {
+            "eng": "Door to Penthouse",
+            "rus": "Дверь в пентхаус"
+        },
+        "Door_Classic": {
+            "eng": "Classic Door",
+            "rus": "Классическая дверь"
+        },
+        "Door_Country": {
+            "eng": "Country Door",
+            "rus": "Дверь в стиле кантри"
+        },
+        "Door_Nouveau": {
+            "eng": "Nouveau Door",
+            "rus": "Дверь в стиле модерн"
+        },
+        "Door_Penthouse": {
+            "eng": "Door to Notary's Room",
+            "rus": "Дверь в комнату Нотариуса"
+        },
+        "DoubleBed_Antique": {
+            "eng": "Antique Double Bed",
+            "rus": "Антикварная двуспальная кровать"
+        },
+        "DoubleBed_Century": {
+            "eng": "Century Double Bed",
+            "rus": "Двуспальная кровать \"Столетие\""
+        },
+        "DoubleBed_Eclectic": {
+            "eng": "Eclectic Double Bed",
+            "rus": "Эклектичная двуспальная кровать"
+        },
+        "DoubleBed_Factory": {
+            "eng": "Factory Double Bed",
+            "rus": "Заводская двуспальная кровать?"
+        },
+        "DoubleBed_MaisonMonique": {
+            "eng": "Maison Monique Double Bed",
+            "rus": "Двуспальная кровать Maison Monique?"
+        },
+        "DoubleBed_Rustic": {
+            "eng": "Rustic Double Bed",
+            "rus": "Деревенская двуспальная кровать"
+        },
+        "Drawer_Antique": {
+            "eng": "Antique Drawer",
+            "rus": "Антикварный комод"
+        },
+        "Drawer_Century": {
+            "eng": "Century Drawer",
+            "rus": "Комод \"Столетие\""
+        },
+        "Drawer_CenturyPop": {
+            "eng": "Century Pop Drawer",
+            "rus": "Комод \"Столетие\" в стиле поп-арт"
+        },
+        "Drawer_Dynasty": {
+            "eng": "Dynasty Drawer",
+            "rus": "Комод династии?"
+        },
+        "Drawer_Eclectic": {
+            "eng": "Eclectic Drawer",
+            "rus": "Эклектичный комод?"
+        },
+        "Drawer_Factory": {
+            "eng": "Factory Drawer",
+            "rus": "Заводской комод?"
+        },
+        "Drawer_MaisonMonique": {
+            "eng": "Maison Monique Drawer",
+            "rus": "Комод Maison Monique?"
+        },
+        "Drawer_Rustic": {
+            "eng": "Rustic Drawer",
+            "rus": "Деревенский комод"
+        },
+        "Fetus": {
+            "eng": "Fetus",
+            "rus": "Зародыш"
+        },
+        "FishTank": {
+            "eng": "Aquarium",
+            "rus": "Аквариум"
+        },
+        "FloorLamp_Aluminium": {
+            "eng": "Aluminium Floor Lamp",
+            "rus": "Алюминиевый торшер?"
+        },
+        "FloorLamp_Classic": {
+            "eng": "Classic Floor Lamp",
+            "rus": "Классический торшер"
+        },
+        "FloorLamp_Industrial": {
+            "eng": "Industrial Floor Lamp",
+            "rus": "Торшер в стиле индастриал?"
+        },
+        "FloorLamp_Modern": {
+            "eng": "Modern Floor Lamp",
+            "rus": "Торшер в стиле модерн?"
+        },
+        "FloorLamp_Noveau": {
+            "eng": "Nouveau Floor Lamp",
+            "rus": "Торшер в стиле ар-нуво?"
+        },
+        "FloorLamp_Organic": {
+            "eng": "Organic Floor Lamp",
+            "rus": "Органический торшер?"
+        },
+        "Fridge_Chalet": {
+            "eng": "Chalet Fridge",
+            "rus": "Холодильник Шале?"
+        },
+        "Fridge_Contemporary": {
+            "eng": "Contemporary Fridge",
+            "rus": "Современный холодильник"
+        },
+        "Fridge_Factory": {
+            "eng": "Factory Fridge",
+            "rus": "Заводской холодильник?"
+        },
+        "Fridge_Hitech": {
+            "eng": "Hi-tech Fridge",
+            "rus": "Холодильник в стиле хай-тек"
+        },
+        "Fridge_Retro": {
+            "eng": "Retro Fridge",
+            "rus": "Холодильник в стиле ретро"
+        },
+        "Fridge_Urban": {
+            "eng": "Urban Fridge",
+            "rus": "Холодильник в урбанистическом стиле"
+        },
+        "Gramophone_1": {
+            "eng": "Gramophone",
+            "rus": "Граммофон"
+        },
+        "GrandfatherClock": {
+            "eng": "Grandfather Clock",
+            "rus": "Дедушкины часы"
+        },
+        "HiFi_1": {
+            "eng": "HiFi System",
+            "rus": "Стереосистема"
+        },
+        "HighDrawer_Antique": {
+            "eng": "Antique Tall Chest of Drawers",
+            "rus": "Антикварный высокий комод"
+        },
+        "HighDrawer_Century": {
+            "eng": "Century Tall Chest of Drawers",
+            "rus": "Высокий комод \"Столетие\""
+        },
+        "HighDrawer_Eclectic": {
+            "eng": "Eclectic Tall Chest of Drawers",
+            "rus": "Эклектичный высокий комод?"
+        },
+        "HighDrawer_Factory": {
+            "eng": "Factory Tall Chest of Drawers",
+            "rus": "Заводской высокий комод?"
+        },
+        "HighDrawer_MaisonMonique": {
+            "eng": "Maison Monique Tall Chest of Drawers",
+            "rus": "Высокий комод Maison Monique?"
+        },
+        "HighDrawer_Rustic": {
+            "eng": "Rustic Tall Chest of Drawers",
+            "rus": "Деревенский высокий комод"
+        },
+        "HorseBust": {
+            "eng": "Horse Bust",
+            "rus": "Лошадиная голова"
+        },
+        "Hourglass": {
+            "eng": "Hourglass",
+            "rus": "Песочные часы"
+        },
+        "Hunger_1": {
+            "eng": "Hanger",
+            "rus": "Вешалка"
+        },
+        "InsectsCollection": {
+            "eng": "Insect Collection",
+            "rus": "Коллекция насекомых"
+        },
+        "KitchenSink_Chalet": {
+            "eng": "Chalet Kitchen Sink",
+            "rus": "Кухонная раковина Шале?"
+        },
+        "KitchenSink_Contemporary": {
+            "eng": "Contemporary Kitchen Sink",
+            "rus": "Современная кухонная раковина"
+        },
+        "KitchenSink_Factory": {
+            "eng": "Factory Kitchen Sink",
+            "rus": "Заводская кухонная раковина"
+        },
+        "KitchenSink_Hitech": {
+            "eng": "Hi-tech Kitchen Sink",
+            "rus": "Кухонная раковина в стиле хай-тек"
+        },
+        "KitchenSink_Retro": {
+            "eng": "Retro Kitchen Sink",
+            "rus": "Кухонная раковина в стиле ретро"
+        },
+        "KitchenSink_Urban": {
+            "eng": "Urban Kitchen Sink",
+            "rus": "Кухонная раковина в урбанистическом стиле"
+        },
+        "LandlinePhone_1": {
+            "eng": "Landline Phone",
+            "rus": "Стационарный телефон"
+        },
+        "LandlinePhone_CenturyPop": {
+            "eng": "Century Pop Landline Phone",
+            "rus": "Стационарный телефон \"Столетие\" в стиле поп-арт"
+        },
+        "LandlinePhone_Dynasty": {
+            "eng": "Dynasty Landline Phone",
+            "rus": "Стационарный телефон династии?"
+        },
+        "MiniFridge": {
+            "eng": "Mini Fridge",
+            "rus": "Мини-холодильник"
+        },
+        "Mirror_MaisonMonique": {
+            "eng": "Maison Monique Mirror",
+            "rus": "Зеркало Maison Monique?"
+        },
+        "Mirror_Munchen": {
+            "eng": "Miroir Munich",
+            "rus": "Зеркало \"Мюнхен\""
+        },
+        "Mirror_Royal": {
+            "eng": "Royal Mirror",
+            "rus": "Королевское зеркало"
+        },
+        "Mirror_Traditional": {
+            "eng": "Traditional Mirror",
+            "rus": "Традиционное зеркало"
+        },
+        "ModularMusicSystem": {
+            "eng": "Modular Synthesizer",
+            "rus": "Модульный синтезатор"
+        },
+        "MountedDeer": {
+            "eng": "Mounted Deer",
+            "rus": "Голова оленя"
+        },
+        "Neon_Green": {
+            "eng": "Green Neon",
+            "rus": "Зелёный неон"
+        },
+        "NightStand_Antique": {
+            "eng": "Antique Bedside Table",
+            "rus": "Антикварный прикроватный столик"
+        },
+        "NightStand_Century": {
+            "eng": "Century Bedside Table",
+            "rus": "Прикроватный столик \"Столетие\""
+        },
+        "NightStand_CenturyPop": {
+            "eng": "Century Pop Bedside Table",
+            "rus": "Прикроватная тумбочка \"Столетие\" в стиле поп-арт"
+        },
+        "NightStand_Eclectic": {
+            "eng": "Eclectic Bedside Table",
+            "rus": "Эклектичный прикроватный столик?"
+        },
+        "NightStand_Factory": {
+            "eng": "Factory Bedside Table",
+            "rus": "Заводской прикроватный столик?"
+        },
+        "NightStand_MaisonMonique": {
+            "eng": "Maison Monique Bedside Table",
+            "rus": "Прикроватный столик Maison Monique?"
+        },
+        "NightStand_Rustic": {
+            "eng": "Rustic Bedside Table",
+            "rus": "Деревенский прикроватный столик"
+        },
+        "OpenNeon": {
+            "eng": "Neon Open Sign",
+            "rus": "Неоновая вывеска \"Открыто\""
+        },
+        "Oven_Chalet": {
+            "eng": "Chalet Oven",
+            "rus": "Печь Шале?"
+        },
+        "Oven_Contemporary": {
+            "eng": "Contemporary Oven",
+            "rus": "Современная печь"
+        },
+        "Oven_Factory": {
+            "eng": "Factory Oven",
+            "rus": "Заводская печь?"
+        },
+        "Oven_Hitech": {
+            "eng": "Hi-tech Oven",
+            "rus": "Печь в стиле хай-тек?"
+        },
+        "Oven_Retro": {
+            "eng": "Retro Oven",
+            "rus": "Печь в стиле ретро"
+        },
+        "Oven_Urban": {
+            "eng": "Urban Oven",
+            "rus": "Печь в урбанистическом стиле"
+        },
+        "Painting_1": {
+            "eng": "Anonymous, 1900",
+            "rus": "Аноним, 1900 год"
+        },
+        "Painting_10": {
+            "eng": "Young Peasant Drinking Coffee",
+            "rus": "Молодая крестьянка с чашкой кофе"
+        },
+        "Painting_11": {
+            "eng": "At the concert",
+            "rus": "На концерте"
+        },
+        "Painting_12": {
+            "eng": "Madam Pompadour",
+            "rus": "Мадам Помпадур"
+        },
+        "Painting_13": {
+            "eng": "The Scream",
+            "rus": "Крик"
+        },
+        "Painting_14": {
+            "eng": "The Great Wave",
+            "rus": "Большая волна"
+        },
+        "Painting_15": {
+            "eng": "Beata Beatrix",
+            "rus": "Беата Беатрикс"
+        },
+        "Painting_16": {
+            "eng": "A Sunday on La Grande Jatte",
+            "rus": "Воскресный день на острове Гранд-Жатт"
+        },
+        "Painting_17": {
+            "eng": "Water Lily Pond",
+            "rus": "Пруд с водяными лилиями"
+        },
+        "Painting_18": {
+            "eng": "Why Are You Angry?",
+            "rus": "Почему ты сердишься?"
+        },
+        "Painting_19": {
+            "eng": "The Bedroom",
+            "rus": "В спальне"
+        },
+        "Painting_2": {
+            "eng": "Verdant Landscape",
+            "rus": "Зелёный пейзаж"
+        },
+        "Painting_20": {
+            "eng": "Milarepa on Mount Kailash",
+            "rus": "Миларепа на горе Кайлас"
+        },
+        "Painting_3": {
+            "eng": "Moonlit City",
+            "rus": "Город в лунном свете"
+        },
+        "Painting_4": {
+            "eng": "Portrait of a Philosopher",
+            "rus": "Портрет философа"
+        },
+        "Painting_5": {
+            "eng": "Bedtime",
+            "rus": "Время спать"
+        },
+        "Painting_6": {
+            "eng": "Mitsuke: Ferries Crossing the Tenryu River",
+            "rus": "Мицукэ: Паромы на реке Тэнрю"
+        },
+        "Painting_7": {
+            "eng": "Café Singer",
+            "rus": "Кафе. Певица"
+        },
+        "Painting_8": {
+            "eng": "Portrait of a Monkey",
+            "rus": "Портрет обезьяны"
+        },
+        "Painting_9": {
+            "eng": "Lozenge Composition with Yellow, Black, Blue, Red, and Gray",
+            "rus": "Композиция в виде ромба с желтым, черным, синим, красным и серым"
+        },
+        "Painting_Rabbits": {
+            "eng": "Twitch Poster 1",
+            "rus": "Плакат Twitch 1"
+        },
+        "Painting_Wen": {
+            "eng": "Wen Painting",
+            "rus": "Роспись Вэнь"
+        },
+        "PartitionWall_1": {
+            "eng": "Partition Wall",
+            "rus": "Перегородка"
+        },
+        "PartitionWall_Squared": {
+            "eng": "Squared Partition Wall",
+            "rus": "Перегородка из бруса"
+        },
+        "PhotoFrame_1": {
+            "eng": "Photo frame",
+            "rus": "Фоторамка"
+        },
+        "Poster_1": {
+            "eng": "Art Nouveau Style",
+            "rus": "Плакат в стиле ар-нуво"
+        },
+        "PumpkinLantern": {
+            "eng": "Pumpkin lantern",
+            "rus": "Тыквенный фонарь"
+        },
+        "RelaxWindow": {
+            "eng": "Relax Window",
+            "rus": "Окно \"Расслабуха\""
+        },
+        "Reward_Level20_Blood": {
+            "eng": "Street Sweeper",
+            "rus": "Street Sweeper"
+        },
+        "RockabillyJukebox": {
+            "eng": "Rockabilly Jukebox",
+            "rus": "Музыкальный автомат"
+        },
+        "SailingShip": {
+            "eng": "Sailing Ship",
+            "rus": "Парусник"
+        },
+        "Shelf_Large": {
+            "eng": "Long Shelf",
+            "rus": "Длинная полка"
+        },
+        "Shelf_Medium": {
+            "eng": "Shelf",
+            "rus": "Полка"
+        },
+        "Shelf_Small": {
+            "eng": "Short Shelf",
+            "rus": "Короткая полка"
+        },
+        "Skeleton": {
+            "eng": "Skeleton",
+            "rus": "Скелет"
+        },
+        "SlotMachine": {
+            "eng": "Slot Machine",
+            "rus": "Игровой автомат"
+        },
+        "SmallTable_Antique": {
+            "eng": "Antique Small Table",
+            "rus": "Антикварный столик"
+        },
+        "SmallTable_Century": {
+            "eng": "Century Small Table",
+            "rus": "Столик \"Столетие\""
+        },
+        "SmallTable_CenturyPop": {
+            "eng": "Century Pop Small Table",
+            "rus": "Маленький столик \"Столетие\" в стиле поп-арт"
+        },
+        "SmallTable_Dynasty": {
+            "eng": "Dynasty Small Table",
+            "rus": "Столик династии?"
+        },
+        "SmallTable_Eclectic": {
+            "eng": "Eclectic Small Table",
+            "rus": "Эклектичный столик?"
+        },
+        "SmallTable_Factory": {
+            "eng": "Factory Small Table",
+            "rus": "Заводской столик?"
+        },
+        "SmallTable_MaisonMonique": {
+            "eng": "Maison Monique Small Table",
+            "rus": "Столик Maison Monique?"
+        },
+        "SmallTable_Rustic": {
+            "eng": "Rustic Small Table",
+            "rus": "Деревенский столик"
+        },
+        "Sofa_CenturyPop": {
+            "eng": "Century Pop Couch",
+            "rus": "Диван \"Столетие\" в стиле поп-арт"
+        },
+        "Sofa_Dynasty": {
+            "eng": "Dynasty Sofa",
+            "rus": "Диван династии?"
+        },
+        "Sofa_Eclectic": {
+            "eng": "Eclectic Sofà",
+            "rus": "Эклектичный диван?"
+        },
+        "Sofa_Factory": {
+            "eng": "Factory Sofa",
+            "rus": "Заводской диван?"
+        },
+        "Sofa_Industrial": {
+            "eng": "Industrial Sofa",
+            "rus": "Диван в стиле индастриал"
+        },
+        "Sofa_MaisonMonique": {
+            "eng": "Maison Monique Sofa",
+            "rus": "Диван Maison Monique?"
+        },
+        "Sofa_Modern": {
+            "eng": "Modern Sofa",
+            "rus": "Современный диван"
+        },
+        "Sofa_Vintage": {
+            "eng": "Vintage Sofa",
+            "rus": "Винтажный диван"
+        },
+        "SpecialPainting_1": {
+            "eng": "The Adam Diptych",
+            "rus": "Диптих Адама"
+        },
+        "SpecialPainting_2": {
+            "eng": "Adam above the Sea of Fog",
+            "rus": "Адам над морем тумана"
+        },
+        "SpecialPainting_3": {
+            "eng": "The Desperate Adam",
+            "rus": "Отчаявшийся Адам"
+        },
+        "SpecialPainting_4": {
+            "eng": "Adam's Self Portrait",
+            "rus": "Автопортрет Адама"
+        },
+        "SpecialPainting_5": {
+            "eng": "Adam as Bacchus",
+            "rus": "Адам в образе Вакха"
+        },
+        "SteamAutumnSale22_FunnyClip": {
+            "eng": "Steam Sale 22 - Best Funny Clip",
+            "rus": "Steam Sale 22 - Best Funny Clip"
+        },
+        "SteamNextFest22_BestApartmentDecor": {
+            "eng": "SNF 22 - Video Award - Best Apartment Decor",
+            "rus": "SNF 22 - Video Award - Best Apartment Decor"
+        },
+        "SteamNextFest22_BestDevKill": {
+            "eng": "SNF 22 - Video Award - Best Dev Kill",
+            "rus": "SNF 22 - Video Award - Best Dev Kill"
+        },
+        "SteamNextFest22_BestFanArt": {
+            "eng": "SNF 22 - Art Award - Best Fan Art",
+            "rus": "SNF 22 - Art Award - Best Fan Art"
+        },
+        "SteamNextFest22_BestFunnyClip": {
+            "eng": "SNF 22 - Video Award - Best Funny Clip",
+            "rus": "SNF 22 - Video Award - Best Funny Clip"
+        },
+        "SteamNextFest22_BestKill": {
+            "eng": "SNF 22 - Video Award - Best Kill",
+            "rus": "SNF 22 - Video Award - Best Kill"
+        },
+        "SteamNextFest22_BestStreamerMoment": {
+            "eng": "SNF 22 - Video Award - Best Streamer moment",
+            "rus": "SNF 22 - Video Award - Best Streamer moment"
+        },
+        "SteamNextFest22_MostBloodCollected": {
+            "eng": "SNF 22 - Player Award - Most Blood Collected",
+            "rus": "SNF 22 - Player Award - Most Blood Collected"
+        },
+        "SteamNextFest22_MostCockroachesCollected": {
+            "eng": "SNF 22 - Player Award - Most Cockroaches Collected",
+            "rus": "SNF 22 - Player Award - Most Cockroaches Collected"
+        },
+        "SteamNextFest22_MostCreedsCollected": {
+            "eng": "SNF 22 - Player Award - Most Creeds Collected",
+            "rus": "SNF 22 - Player Award - Most Creeds Collected"
+        },
+        "SteamNextFest22_MostCupcakesCollected": {
+            "eng": "SNF 22 - Player Award - Most Cupcakes Collected",
+            "rus": "SNF 22 - Player Award - Most Cupcakes Collected"
+        },
+        "SteamNextFest22_MostGoldenItemsCollected": {
+            "eng": "SNF 22 - Player Award - Most Golden Items Collected",
+            "rus": "SNF 22 - Player Award - Most Golden Items Collected"
+        },
+        "SteamNextFest22_MostKills": {
+            "eng": "SNF 22 - Player Award - Most Kills",
+            "rus": "SNF 22 - Player Award - Most Kills"
+        },
+        "SteamNextFest22_MostMatchesSurvived": {
+            "eng": "SNF 22 - Player Award - Most Matches Survived",
+            "rus": "SNF 22 - Player Award - Most Matches Survived"
+        },
+        "SteamNextFest22_MostQuestCompleted": {
+            "eng": "SNF 22 - Player Award - Most Quests Completed",
+            "rus": "SNF 22 - Player Award - Most Quests Completed"
+        },
+        "SteamNextFest22_MostRottenFoodEaten": {
+            "eng": "SNF 22 - Player Award - Most Rotten Foods Eaten",
+            "rus": "SNF 22 - Player Award - Most Rotten Foods Eaten"
+        },
+        "SteamNextFest22_MostThingsKilled": {
+            "eng": "SNF 22 - Player Award - Most Things Killed",
+            "rus": "SNF 22 - Player Award - Most Things Killed"
+        },
+        "SteamNextFest22_MostWildBulletsCollected": {
+            "eng": "SNF 22 - Player Award - Most Wild Bullets Collected",
+            "rus": "SNF 22 - Player Award - Most Wild Bullets Collected"
+        },
+        "SteamNextFest22_MostWindowsBroken": {
+            "eng": "SNF 22 - Player Award - Most Windows Broken",
+            "rus": "SNF 22 - Player Award - Most Windows Broken"
+        },
+        "TableClock_1": {
+            "eng": "Table Clock",
+            "rus": "Настольные часы"
+        },
+        "TableLamp_Aluminium": {
+            "eng": "Aluminium Table Lamp",
+            "rus": "Алюминиевая настольная лампа?"
+        },
+        "TableLamp_Classic": {
+            "eng": "Classic Table Lamp",
+            "rus": "Классическая настольная лампа?"
+        },
+        "TableLamp_Industrial": {
+            "eng": "Industrial Table Lamp",
+            "rus": "Настольная лампа в стиле индастриал?"
+        },
+        "TableLamp_Modern": {
+            "eng": "Modern Table Lamp",
+            "rus": "Настольная лампа в стиле модерн?"
+        },
+        "TableLamp_Noveau": {
+            "eng": "Nouveau Table Lamp",
+            "rus": "Настольная лампа в стиле ар-нуво?"
+        },
+        "TableLamp_Organic": {
+            "eng": "Organic Table Lamp",
+            "rus": "Органическая настольная лампа?"
+        },
+        "Table_Chalet": {
+            "eng": "Chalet Table",
+            "rus": "Стол Шале?"
+        },
+        "Table_Contemporary": {
+            "eng": "Contemporary Table",
+            "rus": "Современный стол"
+        },
+        "Table_Factory": {
+            "eng": "Factory Table",
+            "rus": "Заводской стол?"
+        },
+        "Table_Hitech": {
+            "eng": "Hi-tech Table",
+            "rus": "Стол в стиле хай-тек?"
+        },
+        "Table_Retro": {
+            "eng": "Retro Table",
+            "rus": "Стол в стиле ретро"
+        },
+        "Table_Rustic": {
+            "eng": "Rustic Table",
+            "rus": "Деревенский стол"
+        },
+        "Table_Urban": {
+            "eng": "Urban Table",
+            "rus": "Стол в урбанистическом стиле"
+        },
+        "TapeRecorder": {
+            "eng": "Tape Recorder",
+            "rus": "Магнитофон"
+        },
+        "Throne": {
+            "eng": "Throne",
+            "rus": "Трон"
+        },
+        "TogetherIsBetter_Tier1": {
+            "eng": "Winter Helliday 22 - Together Is Better Tier 1",
+            "rus": "Winter Helliday 22 - Together Is Better Tier 1"
+        },
+        "TogetherIsBetter_Tier2": {
+            "eng": "Winter Helliday 22 - Together Is Better Tier 2",
+            "rus": "Winter Helliday 22 - Together Is Better Tier 2"
+        },
+        "TogetherIsBetter_Tier3": {
+            "eng": "Winter Helliday 22 - Together Is Better Tier 3",
+            "rus": "Winter Helliday 22 - Together Is Better Tier 3"
+        },
+        "ToiletPaper_1": {
+            "eng": "Toilet Paper",
+            "rus": "Туалетная бумага"
+        },
+        "Toilet_MaisonMonique": {
+            "eng": "Maison Monique Toilet",
+            "rus": "Туалет Maison Monique?"
+        },
+        "Toilet_Munchen": {
+            "eng": "Munich-style Toilet",
+            "rus": "Туалет \"Мюнхен\""
+        },
+        "Toilet_Royal": {
+            "eng": "Royal Toilet",
+            "rus": "Королевский туалет"
+        },
+        "Toilet_Traditional": {
+            "eng": "Traditional Toilet",
+            "rus": "Традиционный туалет"
+        },
+        "Towel_1": {
+            "eng": "Towel",
+            "rus": "Полотенце"
+        },
+        "TrashBin_1": {
+            "eng": "Aluminium Basket",
+            "rus": "Алюминиевая корзина"
+        },
+        "TrashBin_CenturyPop": {
+            "eng": "Century Pop Trash Bin",
+            "rus": "Мусорное ведро \"Столетие\" в стиле поп-арт"
+        },
+        "TrashBin_Dynasty": {
+            "eng": "Dynasty Trash Bin",
+            "rus": "Мусорное ведро династии?"
+        },
+        "Trophy_1": {
+            "eng": "Trophy",
+            "rus": "Трофей"
+        },
+        "Trophy_DevTeam": {
+            "eng": "Golden Shark - Best Team",
+            "rus": "Golden Shark - Best Team"
+        },
+        "Trophy_SteamNextFest2022_1": {
+            "eng": "Steam Next Fest - First Loop",
+            "rus": "Steam Next Fest - First Loop"
+        },
+        "Trophy_SteamNextFest2022_2": {
+            "eng": "Steam Next Fest - Second Loop",
+            "rus": "Steam Next Fest - Second Loop"
+        },
+        "Trophy_SteamNextFest2022_3": {
+            "eng": "Steam Next Fest - Third Loop",
+            "rus": "Steam Next Fest - Third Loop"
+        },
+        "Tv_Colonel": {
+            "eng": "Colonel TV",
+            "rus": "Телевизор \"Полковник\""
+        },
+        "Tv_Neutron": {
+            "eng": "Neutron TV",
+            "rus": "Телевизор \"Нейтрон\""
+        },
+        "Tv_Prairie": {
+            "eng": "Prairie TV",
+            "rus": "Телевизор \"Прерия\""
+        },
+        "UprightPiano": {
+            "eng": "Upright Piano",
+            "rus": "Фортепьяно"
+        },
+        "Vase_Celinda": {
+            "eng": "Celinda Pot",
+            "rus": "Горшок \"Селинда\""
+        },
+        "Vase_Eldora": {
+            "eng": "Eldora Pot",
+            "rus": "Горшок \"Эльдора\""
+        },
+        "Vase_Emelina": {
+            "eng": "Emelina Pot",
+            "rus": "Горшок \"Эмелина\""
+        },
+        "Vase_Estella": {
+            "eng": "Estella Pot",
+            "rus": "Горшок \"Эстелла\""
+        },
+        "Vase_Fidela": {
+            "eng": "Fidela Pot",
+            "rus": "Горшок \"Фидела\""
+        },
+        "Vase_Fiona": {
+            "eng": "Fiona Pot",
+            "rus": "Горшок \"Фиона\""
+        },
+        "Vase_Florentina": {
+            "eng": "Florentina Pot",
+            "rus": "Горшок \"Флорентина\""
+        },
+        "Vase_Lucinda": {
+            "eng": "Lucinda Pot",
+            "rus": "Горшок \"Люсинда\""
+        },
+        "Vase_Melinda": {
+            "eng": "Melinda Pot",
+            "rus": "Горшок \"Мелинда\""
+        },
+        "Vase_Paloma": {
+            "eng": "Paloma Pot",
+            "rus": "Горшок \"Палома\""
+        },
+        "Vase_Pamela": {
+            "eng": "Pamela Pot",
+            "rus": "Горшок \"Памела\""
+        },
+        "Vase_Paulita": {
+            "eng": "Paulita Pot",
+            "rus": "Горшок \"Паулита\""
+        },
+        "WallCabinet_Chalet": {
+            "eng": "Chalet Wall Cabinet",
+            "rus": "Настенный шкаф Шале?"
+        },
+        "WallCabinet_Contemporary": {
+            "eng": "Contemporary Wall Cabinet",
+            "rus": "Современный настенный шкаф"
+        },
+        "WallCabinet_Factory": {
+            "eng": "Factory Wall Cabinet",
+            "rus": "Заводской настенный шкаф?"
+        },
+        "WallCabinet_Hitech": {
+            "eng": "Hi-tech Wall Cabinet",
+            "rus": "Настенный шкаф в стиле хай-тек?"
+        },
+        "WallCabinet_Retro": {
+            "eng": "Retro Wall Cabinet",
+            "rus": "Настенный шкаф в стиле ретро"
+        },
+        "WallCabinet_Urban": {
+            "eng": "Urban Wall Cabinet",
+            "rus": "Настенный шкаф в урбанистическом стиле"
+        },
+        "WallLamp_Aluminium": {
+            "eng": "Aluminium Wall Lamp",
+            "rus": "Алюминиевая настенная лампа?"
+        },
+        "WallLamp_Classic": {
+            "eng": "Classic Wall Lamp",
+            "rus": "Классическая настенная лампа?"
+        },
+        "WallLamp_Industrial": {
+            "eng": "Industrial Wall Lamp",
+            "rus": "Настенный светильник в стиле индастриал?"
+        },
+        "WallLamp_Modern": {
+            "eng": "Modern Wall Lamp",
+            "rus": "Современный настенный светильник"
+        },
+        "WallLamp_Noveau": {
+            "eng": "Nouveau Wall Lamp",
+            "rus": "Настенный светильник в стиле ар-нуво?"
+        },
+        "WallLamp_Organic": {
+            "eng": "Organic Wall Lamp",
+            "rus": "Органический настенный светильник?"
+        },
+        "Wallpaper_AnechoicChamber": {
+            "eng": "Recording Studio Wallpaper",
+            "rus": "Студия записи обои"
+        },
+        "Wallpaper_Bathroom": {
+            "eng": "Traditional Wallpaper",
+            "rus": "Классические обои"
+        },
+        "Wallpaper_Bathroom_Dynasty": {
+            "eng": "Sugar Wallpaper",
+            "rus": "Сахарные обои?"
+        },
+        "Wallpaper_Bureau_Chestnut": {
+            "eng": "Bureau Chestnut Wallpaper",
+            "rus": "Бюро Каштан обои?"
+        },
+        "Wallpaper_Classic_Turquoise": {
+            "eng": "Classic Turquoise Wallpaper",
+            "rus": "Классические бирюзовые обои?"
+        },
+        "Wallpaper_Cosy_White": {
+            "eng": "Cosy White Wallpaper",
+            "rus": "Уютные белые обои?"
+        },
+        "Wallpaper_Country_White": {
+            "eng": "Country White Wallpaper",
+            "rus": "Белые обои в стиле кантри?"
+        },
+        "Wallpaper_Damask_Grey": {
+            "eng": "Damask Grey Wallpaper",
+            "rus": "Дамасские серые обои?"
+        },
+        "Wallpaper_Default": {
+            "eng": "Smoke Grey Wallpaper",
+            "rus": "Дымчатые обои"
+        },
+        "Wallpaper_Dynasty": {
+            "eng": "Dynasty Wallpaper",
+            "rus": "Обои династии?"
+        },
+        "Wallpaper_Hallway": {
+            "eng": "Deluxe Wallpaper",
+            "rus": "Обои класса люкс"
+        },
+        "Wallpaper_Imperial_Blue": {
+            "eng": "Imperial Blue Wallpaper",
+            "rus": "Имперские синие обои?"
+        },
+        "Wallpaper_Kitchen": {
+            "eng": "Good Old Days Wallpaper",
+            "rus": "Обои \"Старые добрые времена\""
+        },
+        "Wallpaper_LivingRoom": {
+            "eng": "Victorian Wallpaper",
+            "rus": "Викторианские обои"
+        },
+        "Wallpaper_Metro_Emerald": {
+            "eng": "Metro Emerald Wallpaper",
+            "rus": "Изумрудные обои?"
+        },
+        "Wallpaper_Pastel": {
+            "eng": "Pastel Wallpaper",
+            "rus": "Пастельные обои"
+        },
+        "Wallpaper_Piper": {
+            "eng": "Piper Wallpaper",
+            "rus": "Обои с рисунком \"Пайпер\""
+        },
+        "Wallpaper_Plaster_Red": {
+            "eng": "Plaster Red Wallpaper",
+            "rus": "Гипсовые красные обои?"
+        },
+        "Wallpaper_StoneBricks_Red": {
+            "eng": "Stone Bricks Red Wallpaper",
+            "rus": "Кирпичные обои?"
+        },
+        "Wallpaper_Stripes_Green": {
+            "eng": "Stripes Green Wallpaper",
+            "rus": "Зелёные обои в полоску?"
+        },
+        "WallPhone_1": {
+            "eng": "Wall phone",
+            "rus": "Настенный телефон"
+        },
+        "WallSafe": {
+            "eng": "Wall Safe",
+            "rus": "Сейф в стене"
+        },
+        "Wardrobe_Antique": {
+            "eng": "Antique Wardrobe",
+            "rus": "Антикварный гардероб"
+        },
+        "Wardrobe_Century": {
+            "eng": "Century Wardrobe",
+            "rus": "Гардероб \"Столетие\""
+        },
+        "Wardrobe_Eclectic": {
+            "eng": "Eclectic Wardrobe",
+            "rus": "Эклектичный гардероб?"
+        },
+        "Wardrobe_Factory": {
+            "eng": "Factory Wardrobe",
+            "rus": "Заводской гардероб?"
+        },
+        "Wardrobe_MaisonMonique": {
+            "eng": "Maison Monique Wardrobe",
+            "rus": "Гардероб Maison?"
+        },
+        "Wardrobe_Rustic": {
+            "eng": "Rustic Wardrobe",
+            "rus": "Деревенский гардероб"
+        },
+        "WashingMachine_Nebula": {
+            "eng": "Nebula Washing Machine",
+            "rus": "Стиральная машина \"Небула\""
+        },
+        "WashingMachine_Pulsar": {
+            "eng": "Pulsar Washing Machine",
+            "rus": "Стиральная машина \"Пульсар\""
+        },
+        "WashingMachine_Vega": {
+            "eng": "Vega Washing Machine",
+            "rus": "Стиральная машина \"Вега\""
+        },
+        "Window_1": {
+            "eng": "Century City Window",
+            "rus": "Окно \"Столетие\""
+        },
+        "WinterHelliday22_HolidayFanart": {
+            "eng": "Winter Helliday 22 - Best Holiday Fanart",
+            "rus": "Winter Helliday 22 - Best Holiday Fanart"
+        },
+        "WinterHelliday22_MostGiftsOpened": {
+            "eng": "Winter Helliday 22 - Most Gifts Opened",
+            "rus": "Winter Helliday 22 - Most Gifts Opened"
+        },
+        "WinterHelliday22_RevengeClip": {
+            "eng": "Winter Helliday 22 - Best Revenge Clip",
+            "rus": "Winter Helliday 22 - Best Revenge Clip"
+        },
+        "WinterHelliday22_ScaryClip": {
+            "eng": "Winter Helliday 22 - Best Scary Clip",
+            "rus": "Winter Helliday 22 - Best Scary Clip"
+        },
+        "WoodenGlobe": {
+            "eng": "Wooden Globe",
+            "rus": "Деревянный глобус"
+        },
+        "WoodStove": {
+            "eng": "Wood Stove",
+            "rus": "Дровяная печь"
+        },
+        "AchillesPatron_Paint": {
+            "eng": "Achilles Patron Portrait",
+            "rus": "Портрет покровителя Achilles"
+        }
+    },
+    "tags": {
+        "AlcoholicTag": {
+            "eng": "Alcoholic",
+            "rus": "Алкоголь"
+        },
+        "AncientTag": {
+            "eng": "Ancient",
+            "rus": "Древность"
+        },
+        "AssaultRifleTag": {
+            "eng": "Assault Rifle",
+            "rus": "Штурмовая винтовка"
+        },
+        "BaseballBatTag": {
+            "eng": "Baseball Bat",
+            "rus": "Бейсбольная бита"
+        },
+        "BaseLevelTag": {
+            "eng": "Base Level",
+            "rus": "Базовый уровень"
+        },
+        "BloodTag": {
+            "eng": "Blood",
+            "rus": "Кровь"
+        },
+        "BoneTag": {
+            "eng": "Bone",
+            "rus": "Кость"
+        },
+        "BottledTag": {
+            "eng": "Bottled",
+            "rus": "В бутылке"
+        },
+        "BoxTag": {
+            "eng": "Box",
+            "rus": "Коробка"
+        },
+        "BriefcaseTag": {
+            "eng": "Briefcase",
+            "rus": "Чемодан"
+        },
+        "BulbTag": {
+            "eng": "Bulb",
+            "rus": "Лампочка"
+        },
+        "BulletModifierTag": {
+            "eng": "Modified Bullet",
+            "rus": "Удобрение для пуль"
+        },
+        "BulletTag": {
+            "eng": "Wild Bullet",
+            "rus": "Пуля"
+        },
+        "ComponentTag": {
+            "eng": "Component",
+            "rus": "Компонент"
+        },
+        "ConsumableTag": {
+            "eng": "Consumable",
+            "rus": "Расходник"
+        },
+        "CurativeTag": {
+            "eng": "Curative",
+            "rus": "Лечит"
+        },
+        "CutleryTag": {
+            "eng": "Cutlery",
+            "rus": "Столовые приборы"
+        },
+        "DeviceTag": {
+            "eng": "Device",
+            "rus": "Устройство"
+        },
+        "DocumentTag": {
+            "eng": "Document",
+            "rus": "Документ"
+        },
+        "DrawerHighTag": {
+            "eng": "Tall Chest of Drawers",
+            "rus": "Высокий комод"
+        },
+        "DrawerTag": {
+            "eng": "Drawer",
+            "rus": "Комод"
+        },
+        "DrFisherTag": {
+            "eng": "Dr Fisher",
+            "rus": "Доктор Фишер"
+        },
+        "DrinkTag": {
+            "eng": "Drink",
+            "rus": "Напиток"
+        },
+        "ElectronicsTag": {
+            "eng": "Electronics",
+            "rus": "Электроника"
+        },
+        "EnergiserTag": {
+            "eng": "Energiser",
+            "rus": "Бодрит"
+        },
+        "EnhancerTag": {
+            "eng": "Enhancer",
+            "rus": "Усилитель"
+        },
+        "EquippableTag": {
+            "eng": "Equippable",
+            "rus": "Можно применить"
+        },
+        "EssenceTag": {
+            "eng": "Essence",
+            "rus": "Экстракт"
+        },
+        "ExplosiveTag": {
+            "eng": "Explosive",
+            "rus": "Взрывчатка"
+        },
+        "FertileTag": {
+            "eng": "Fertilizer",
+            "rus": "Удобрение"
+        },
+        "FertiliserTag": {
+            "eng": "Fertilizer",
+            "rus": "Удобрение"
+        },
+        "FirearmTag": {
+            "eng": "Firearm",
+            "rus": "Огнестрельное оружие"
+        },
+        "FistsTag": {
+            "eng": "Fists",
+            "rus": "Кулаки"
+        },
+        "FoodTag": {
+            "eng": "Food",
+            "rus": "Еда"
+        },
+        "FragGrenadeTag": {
+            "eng": "Frag Grenade",
+            "rus": "Граната"
+        },
+        "FungusTag": {
+            "eng": "Fungus",
+            "rus": "Плесень"
+        },
+        "GoldTag": {
+            "eng": "Gold",
+            "rus": "Золото"
+        },
+        "HeartTag": {
+            "eng": "Heart",
+            "rus": "Сердце"
+        },
+        "HumanPartTag": {
+            "eng": "Human Part",
+            "rus": "Часть человека"
+        },
+        "InjectionTag": {
+            "eng": "Injection",
+            "rus": "Инъекция"
+        },
+        "InsectTag": {
+            "eng": "Insect",
+            "rus": "Насекомое"
+        },
+        "KatanaTag": {
+            "eng": "Katana",
+            "rus": "Катана"
+        },
+        "KeyTag": {
+            "eng": "Key",
+            "rus": "Ключ"
+        },
+        "KnuckleDustersTag": {
+            "eng": "Knuckle Dusters",
+            "rus": "Кастет"
+        },
+        "LadyButlerTag": {
+            "eng": "Lady Butler",
+            "rus": "Леди Батлер"
+        },
+        "LadyMarshallTag": {
+            "eng": "Lady Marshall",
+            "rus": "Леди Маршал"
+        },
+        "LadySaundersTag": {
+            "eng": "Lady Saunders",
+            "rus": "Леди Сондерс"
+        },
+        "LandMineTag": {
+            "eng": "Land Mine",
+            "rus": "Мина"
+        },
+        "LargeCalibreTag": {
+            "eng": "Large Caliber",
+            "rus": "Крупный калибр"
+        },
+        "MedicineTag": {
+            "eng": "Medicine",
+            "rus": "Лекарство"
+        },
+        "MeleeTag": {
+            "eng": "Melee",
+            "rus": "Для рукопашного боя"
+        },
+        "MissElliottTag": {
+            "eng": "Miss Elliott",
+            "rus": "Мисс Элиот"
+        },
+        "MissHarveyTag": {
+            "eng": "Miss Harvey",
+            "rus": "Мисс Харви"
+        },
+        "MissMurphyTag": {
+            "eng": "Miss Murphy",
+            "rus": "Мисс Мёрфи"
+        },
+        "MissPayneTag": {
+            "eng": "Miss Payne",
+            "rus": "Мисс Пэйн"
+        },
+        "MissRosebudTag": {
+            "eng": "Miss Rosebud",
+            "rus": "Мисс Роза"
+        },
+        "ModifiedTag": {
+            "eng": "Modified",
+            "rus": "Модификация"
+        },
+        "MoneyTag": {
+            "eng": "Money",
+            "rus": "Деньги"
+        },
+        "MonsterPartTag": {
+            "eng": "Monster Part",
+            "rus": "Часть чудовища"
+        },
+        "MrChapmanTag": {
+            "eng": "Mr Chapman",
+            "rus": "Мистер Чэпмен"
+        },
+        "MrGrantTag": {
+            "eng": "Mr Grant",
+            "rus": "Мистер Грант"
+        },
+        "MrsBellTag": {
+            "eng": "Mrs Bell",
+            "rus": "Миссис Бэл"
+        },
+        "MrsKellyTag": {
+            "eng": "Mrs Kelly",
+            "rus": "Миссис Келли"
+        },
+        "MrsPowellTag": {
+            "eng": "Mrs Powell",
+            "rus": "Миссис Пауэл"
+        },
+        "MrWattsTag": {
+            "eng": "Mr Watts",
+            "rus": "Мистер Уотс"
+        },
+        "NonAlcoholic": {
+            "eng": "Non-alcoholic",
+            "rus": "Без алкоголя"
+        },
+        "OfficeTag": {
+            "eng": "Office",
+            "rus": "Офис"
+        },
+        "OrganTag": {
+            "eng": "Organ",
+            "rus": "Орган"
+        },
+        "PerishableTag": {
+            "eng": "Perishable",
+            "rus": "Быстро портится"
+        },
+        "PillTag": {
+            "eng": "Pill",
+            "rus": "Таблетка"
+        },
+        "PistolTag": {
+            "eng": "Semi-automatic pistol",
+            "rus": "Полуавтоматический пистолет"
+        },
+        "PlusLevelTag": {
+            "eng": "Plus Level",
+            "rus": "Уровень +"
+        },
+        "PlusPlusLevelTag": {
+            "eng": "Plus Plus Level",
+            "rus": "Уровень ++"
+        },
+        "ProximityMineTag": {
+            "eng": "Proximity Mine",
+            "rus": "Бесконтактная мина"
+        },
+        "RawTag": {
+            "eng": "Raw",
+            "rus": "Сырое"
+        },
+        "RevolverTag": {
+            "eng": "Revolver",
+            "rus": "Револьвер"
+        },
+        "RottenTag": {
+            "eng": "Rotten",
+            "rus": "Испорчено"
+        },
+        "SavouryTag": {
+            "eng": "Savoury",
+            "rus": "Солёное"
+        },
+        "ShotgunTag": {
+            "eng": "Shotgun",
+            "rus": "Дробовик"
+        },
+        "SirArmstrongTag": {
+            "eng": "Sir Armstrong",
+            "rus": "Сэр Армстронг"
+        },
+        "SirLloydTag": {
+            "eng": "Sir Lloyd",
+            "rus": "Сэр Ллойд"
+        },
+        "SirMorrisTag": {
+            "eng": "Sir Morris",
+            "rus": "Сэр Моррис"
+        },
+        "SmallCalibreTag": {
+            "eng": "Small Caliber",
+            "rus": "Мелкий калибр"
+        },
+        "SmellsOfBloodTag": {
+            "eng": "Smells of blood",
+            "rus": "Пахнет кровью"
+        },
+        "SMGTag": {
+            "eng": "SMG",
+            "rus": "Пистолет-пулемет"
+        },
+        "SniperRifleTag": {
+            "eng": "Sniper Rifle",
+            "rus": "Снайперская винтовка"
+        },
+        "SteelTag": {
+            "eng": "Steel",
+            "rus": "Сталь"
+        },
+        "SterileTag": {
+            "eng": "Any modified bullet",
+            "rus": "Любая мод-пуля"
+        },
+        "StoneTag": {
+            "eng": "Stone",
+            "rus": "Камень"
+        },
+        "SweetTag": {
+            "eng": "Sweet",
+            "rus": "Сладость"
+        },
+        "ThrowableTag": {
+            "eng": "Throwable",
+            "rus": "Можно бросить"
+        },
+        "ToolTag": {
+            "eng": "Tool",
+            "rus": "Инструмент"
+        },
+        "TrapTag": {
+            "eng": "Trap",
+            "rus": "Ловушка"
+        },
+        "TrophyTag": {
+            "eng": "Trophy",
+            "rus": "Трофей"
+        },
+        "UsableTag": {
+            "eng": "Usable",
+            "rus": "Можно использовать"
+        },
+        "ValuableTag": {
+            "eng": "Valuable",
+            "rus": "Ценность"
+        },
+        "WeaponTag": {
+            "eng": "Weapon",
+            "rus": "Оружие"
+        },
+        "BearTrapTag": {
+            "eng": "Bear Trap",
+            "rus": "Капкан?"
+        },
+        "ClaymoreTag": {
+            "eng": "Claymore",
+            "rus": "Клеймор?"
+        },
+        "FlashbangTag": {
+            "eng": "Flashbang",
+            "rus": "Светошумовая граната?"
+        },
+        "GlueGrenadeTag": {
+            "eng": "Glue Grenade",
+            "rus": "Клейкая граната?"
+        },
+        "MolotovTag": {
+            "eng": "Molotov",
+            "rus": "Молотов?"
+        },
+        "ShortRangeClaymoreTag": {
+            "eng": "ShortRangeClaymore",
+            "rus": "ShortRangeClaymore"
+        },
+        "SmokeGrenadeTag": {
+            "eng": "Smoke Grenade",
+            "rus": "Дымовая шашка?"
+        },
+        "ContainerCategoryTag": {
+            "eng": "Container",
+            "rus": "Контейнер"
+        },
+        "SupportCategoryTag": {
+            "eng": "Support",
+            "rus": "Поверхность"
+        },
+        "RefrigeratorCategoryTag": {
+            "eng": "Refrigerators",
+            "rus": "Холодильники"
+        },
+        "WasherCategoryTag": {
+            "eng": "Extractor",
+            "rus": "Экстрактор"
+        },
+        "PotCategoryTag": {
+            "eng": "Pots",
+            "rus": "Горшки"
+        },
+        "DoorCategoryTag": {
+            "eng": "Doors",
+            "rus": "Двери"
+        },
+        "LightCategoryTag": {
+            "eng": "Lights",
+            "rus": "Светильники"
+        },
+        "PhoneCategoryTag": {
+            "eng": "Telephones",
+            "rus": "Телефоны"
+        },
+        "SeatCategoryTag": {
+            "eng": "Seats",
+            "rus": "Стулья"
+        },
+        "WallpaperCategoryTag": {
+            "eng": "Wallpapers",
+            "rus": "Обои"
+        },
+        "ArtCategoryTag": {
+            "eng": "Art",
+            "rus": "Искусство"
+        },
+        "TrophyCategoryTag": {
+            "eng": "Trophy",
+            "rus": "Трофей"
+        },
+        "ElectronicCategoryTag": {
+            "eng": "Electronics",
+            "rus": "Электроника"
+        },
+        "MusicPlayerCategoryTag": {
+            "eng": "Music Player",
+            "rus": "Музыкальный проигрыватель"
+        },
+        "MiscellanyCategoryTag": {
+            "eng": "Miscellany",
+            "rus": "Сборник"
+        },
+        "BonsaiTag": {
+            "eng": "Miscellany",
+            "rus": "Сборник"
+        }
+    }
+}
